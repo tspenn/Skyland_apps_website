@@ -52,34 +52,23 @@ Read-only email processing — My Support Agent receives forwarded copies of ema
 
 ## Plans
 
-### **Support**
-
-— Free forever, no card ever *Ad-supported*
-
-For anyone who wants to stop losing track of support requests, starting today.
-
-What’s included:
-
-* 1 forwarded inbox
-* 25 cases per month
-* AI suggested fixes on every case
-* Work notes per case
-* Click-to-reply
-* Runs in any browser — no download required
-
----
-
 ### **Specialist**
 
 — Your support inbox, on autopilot · $19.99/mo · $179.91/yr *Save 25% annually*
 
+**14-day free trial · No credit card required**
+
 For small businesses managing support across multiple products or addresses.
 
-Everything in Support, plus:
+What’s included:
 
 * Up to 3 forwarded inboxes
 * 200 cases per month
+* AI suggested fixes on every case
 * Business profile — teach the AI your industry and tone
+* Work notes per case
+* Click-to-reply
+* Runs in any browser — no download required
 * No ads
 
 ---
