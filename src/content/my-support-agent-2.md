@@ -35,7 +35,7 @@ Work Notes: Log what you did, what you found, what needs follow-up — right al
 
 My Support Agent connects to your email through a simple forwarding rule — no passwords, no plugins, no integrations to maintain. You tell your email provider to send a copy to your My Support Agent address. That’s it.
 
-From there, every inbound message becomes a case. The AI reads it, suggests a fix, and your Command Center keeps it organized until you mark it resolved.
+From there, every inbound message becomes a case. The AI reads it, formulates a complete reply to the sender, and then suggests a fix for you or your team — and your Command Center keeps it organized until you mark it resolved. All responded to. All fixed. No more falling through the cracks.
 
 ---
 
