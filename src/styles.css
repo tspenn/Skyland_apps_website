@@ -89,18 +89,23 @@
     color: var(--color-gold);
   }
   & h2 {
-    font-size: 1.75rem;
+    font-size: 2rem;
     margin: 2.5rem 0 1rem;
     color: var(--color-gold);
     border-bottom: 1px solid var(--color-border);
     padding-bottom: 0.35rem;
   }
   & h3 {
-    font-size: 1.35rem;
+    font-size: 1.7rem;
     margin: 2rem 0 0.75rem;
     color: oklch(0.90 0.05 82);
   }
-  & h4 { font-size: 1.15rem; margin: 1.5rem 0 0.5rem; }
+  /* Serif h4s were optically smaller than sans body at ~1.15rem */
+  & h4 {
+    font-size: 1.45rem;
+    margin: 1.5rem 0 0.5rem;
+    color: oklch(0.92 0.04 82);
+  }
   & p { margin: 0 0 1rem; }
   & ul, & ol { margin: 0 0 1.25rem 1.5rem; }
   & ul { list-style: disc; }
