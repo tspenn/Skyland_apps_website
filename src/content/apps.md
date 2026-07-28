@@ -15,24 +15,24 @@ Secure, intelligent link and clipboard management. Keep, Borrow, Share, or Bury 
 ### [My Support Agent](/my-support-agent-2)
 Turn your inbox into an organized support desk with AI-drafted replies. — [my-support-agent.com](https://www.my-support-agent.com/)
 
-### [My$](/mny)
-One button. One answer. Know exactly what you can spend today, before your next paycheck. — [my-mny.com](https://my-mny.com/)
-
-### [My$ — Business](/mnybusiness)
-The same clarity for freelancers, side-hustles and small businesses.
-
 ### [FRIDAY Desk](/desk)
 The AI-powered work desk for modern business — the enterprise tier of FRIDAY Canvas.
 
 ---
-
-## In Development
-
 ### [Go Shop!](/go-shop)
 Not your everyday shopping planner. Details to follow. — my-go-shop.com
 
 ### [Go News](/go-news-app)
 A calm, scrollable international news app. Business, Politics, Sports, Fashion, Lifestyle. — go-news.app
+
+
+## In Development
+
+### [My$](/mny)
+One button. One answer. Know exactly what you can spend today, before your next paycheck. — [my-mny.com](https://my-mny.com/)
+
+### [My$ — Business](/mnybusiness)
+The same clarity for freelancers, side-hustles and small businesses.
 
 ### [My Secret Agent](/my-secret-agent)
 Your own covert operative — watches prices, stocks, weather, and websites and texts you the moment things change.

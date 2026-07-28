@@ -63,7 +63,7 @@ const apps: App[] = [
     to: "/mny",
     name: "My$",
     tag: "my-mny.com",
-    status: "Available",
+    status: "In Development",
     blurb:
       "One button, one answer. Know exactly what you can spend right now — before your next paycheck.",
     external: "https://my-mny.com/",
@@ -72,7 +72,7 @@ const apps: App[] = [
     to: "/mnybusiness",
     name: "My$ — Business",
     tag: "for small business",
-    status: "Available",
+    status: "In Development",
     blurb:
       "The same clarity as My$, tuned for freelancers, side hustles, and small businesses.",
   },
@@ -80,7 +80,7 @@ const apps: App[] = [
     to: "/go-shop",
     name: "Go Shop!",
     tag: "my-go-shop.com",
-    status: "In Development",
+    status: "Available",
     blurb:
       "Not your everyday shopping planner. A smarter way to plan your next trip.",
   },
@@ -88,7 +88,7 @@ const apps: App[] = [
     to: "/go-news-app",
     name: "Go News",
     tag: "go-news.app",
-    status: "In Development",
+    status: "Available",
     blurb:
       "A calm, scrollable international news app. Business, politics, sports, fashion & lifestyle.",
   },
