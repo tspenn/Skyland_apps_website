@@ -26,7 +26,7 @@ export const Route = createFileRoute("/my-toc")({
 function Page() {
   return (
     <>
-      <div className="container-narrow pt-12 md:pt-16">
+      <div className="container-narrow pt-12 md:pt-16 space-y-6">
         <div className="relative w-full overflow-hidden rounded-lg border border-border/60 bg-black">
           <picture>
             <source media="(max-width: 767px)" srcSet="/toc-hero-mobile.png" />
@@ -36,6 +36,18 @@ function Page() {
               className="w-full h-auto block"
             />
           </picture>
+        </div>
+        <div
+          className="relative w-full overflow-hidden rounded-lg border border-border/60"
+          style={{ paddingTop: "56.25%" }}
+        >
+          <iframe
+            className="absolute inset-0 h-full w-full"
+            src="https://www.youtube.com/embed/_vzB73XVNa8"
+            title="Tactical Operations Command — Tick Tock"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowFullScreen
+          />
         </div>
       </div>
       <MarkdownPage content={content} />
