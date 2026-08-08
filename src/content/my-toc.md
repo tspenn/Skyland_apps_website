@@ -1,6 +1,6 @@
 # Tactical Operations Command
 
-Your complete operational command center. Everything at your fingertips, wherever you go. Keeping you on top of the game when every moment counts.
+Your complete operational command center — directives, files, and team confirmation, wherever you go. Keeping you on top of the game when every moment counts.
 
 **Tick Tock**
 
@@ -8,9 +8,9 @@ Your complete operational command center. Everything at your fingertips, whereve
 
 ---
 
-TOC is the executive command layer for people who move work with words — issue a Directive, assign your team, confirm it’s done. Clear ownership. Instant status. Built for COOs, chiefs of staff, and leaders who can’t afford to wonder what’s still open.
+TOC is the executive command layer for leaders who need clear ownership — issue a Directive, attach what matters, assign your team, confirm it’s done. Instant status. Built for COOs, chiefs of staff, and leaders who can’t afford to wonder what’s still open.
 
-Issue it. Assign it. Confirm it. Done.
+Issue it. Attach it. Assign it. Confirm it. Done.
 
 When every moment counts — Tick Tock.
 

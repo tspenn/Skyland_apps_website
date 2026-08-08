@@ -65,7 +65,7 @@ const apps: App[] = [
     tag: "mytoc.app",
     status: "Available",
     blurb:
-      "TOC is the executive command layer for people who move work with words — issue a Directive, assign your team, confirm it’s done.",
+      "TOC is the executive command layer for leaders who need clear ownership — issue a Directive, attach what matters, assign your team, confirm it’s done.",
     external: "https://mytoc.app",
   },
   {

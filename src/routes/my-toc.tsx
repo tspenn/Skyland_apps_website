@@ -9,13 +9,13 @@ export const Route = createFileRoute("/my-toc")({
       {
         name: "description",
         content:
-          "TOC is the executive command layer for Directives — issue, assign, confirm. Get it today at MyTOC.app.",
+          "TOC is the executive command layer — issue a Directive, attach what matters, assign your team, confirm it’s done. Get it today at MyTOC.app.",
       },
       { property: "og:title", content: "TOC — Tactical Operations Command — Skyland Apps" },
       {
         property: "og:description",
         content:
-          "Your complete operational command center. Issue it. Assign it. Confirm it. Done. Tick Tock.",
+          "Your complete operational command center — directives, files, and team confirmation. Issue it. Attach it. Assign it. Confirm it. Done. Tick Tock.",
       },
       { property: "og:image", content: "/toc-hero.png" },
     ],
