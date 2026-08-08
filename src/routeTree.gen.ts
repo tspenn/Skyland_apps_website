@@ -10,6 +10,7 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
+import { Route as MyTocRouteImport } from './routes/my-toc'
 import { Route as MySupportAgent2RouteImport } from './routes/my-support-agent-2'
 import { Route as MySecretAgentRouteImport } from './routes/my-secret-agent'
 import { Route as MnybusinessRouteImport } from './routes/mnybusiness'
@@ -27,6 +28,11 @@ import { Route as IndexRouteImport } from './routes/index'
 const SitemapDotxmlRoute = SitemapDotxmlRouteImport.update({
   id: '/sitemap.xml',
   path: '/sitemap.xml',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const MyTocRoute = MyTocRouteImport.update({
+  id: '/my-toc',
+  path: '/my-toc',
   getParentRoute: () => rootRouteImport,
 } as any)
 const MySupportAgent2Route = MySupportAgent2RouteImport.update({
@@ -109,6 +115,7 @@ export interface FileRoutesByFullPath {
   '/mnybusiness': typeof MnybusinessRoute
   '/my-secret-agent': typeof MySecretAgentRoute
   '/my-support-agent-2': typeof MySupportAgent2Route
+  '/my-toc': typeof MyTocRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
 }
 export interface FileRoutesByTo {
@@ -125,6 +132,7 @@ export interface FileRoutesByTo {
   '/mnybusiness': typeof MnybusinessRoute
   '/my-secret-agent': typeof MySecretAgentRoute
   '/my-support-agent-2': typeof MySupportAgent2Route
+  '/my-toc': typeof MyTocRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
 }
 export interface FileRoutesById {
@@ -142,6 +150,7 @@ export interface FileRoutesById {
   '/mnybusiness': typeof MnybusinessRoute
   '/my-secret-agent': typeof MySecretAgentRoute
   '/my-support-agent-2': typeof MySupportAgent2Route
+  '/my-toc': typeof MyTocRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
 }
 export interface FileRouteTypes {
@@ -160,6 +169,7 @@ export interface FileRouteTypes {
     | '/mnybusiness'
     | '/my-secret-agent'
     | '/my-support-agent-2'
+    | '/my-toc'
     | '/sitemap.xml'
   fileRoutesByTo: FileRoutesByTo
   to:
@@ -176,6 +186,7 @@ export interface FileRouteTypes {
     | '/mnybusiness'
     | '/my-secret-agent'
     | '/my-support-agent-2'
+    | '/my-toc'
     | '/sitemap.xml'
   id:
     | '__root__'
@@ -192,6 +203,7 @@ export interface FileRouteTypes {
     | '/mnybusiness'
     | '/my-secret-agent'
     | '/my-support-agent-2'
+    | '/my-toc'
     | '/sitemap.xml'
   fileRoutesById: FileRoutesById
 }
@@ -209,6 +221,7 @@ export interface RootRouteChildren {
   MnybusinessRoute: typeof MnybusinessRoute
   MySecretAgentRoute: typeof MySecretAgentRoute
   MySupportAgent2Route: typeof MySupportAgent2Route
+  MyTocRoute: typeof MyTocRoute
   SitemapDotxmlRoute: typeof SitemapDotxmlRoute
 }
 
@@ -219,6 +232,13 @@ declare module '@tanstack/react-router' {
       path: '/sitemap.xml'
       fullPath: '/sitemap.xml'
       preLoaderRoute: typeof SitemapDotxmlRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/my-toc': {
+      id: '/my-toc'
+      path: '/my-toc'
+      fullPath: '/my-toc'
+      preLoaderRoute: typeof MyTocRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/my-support-agent-2': {
@@ -329,8 +349,19 @@ const rootRouteChildren: RootRouteChildren = {
   MnybusinessRoute: MnybusinessRoute,
   MySecretAgentRoute: MySecretAgentRoute,
   MySupportAgent2Route: MySupportAgent2Route,
+  MyTocRoute: MyTocRoute,
   SitemapDotxmlRoute: SitemapDotxmlRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
   ._addFileTypes<FileRouteTypes>()
+
+import type { getRouter } from './router.tsx'
+import type { startInstance } from './start.ts'
+declare module '@tanstack/react-start' {
+  interface Register {
+    ssr: true
+    router: Awaited<ReturnType<typeof getRouter>>
+    config: Awaited<ReturnType<typeof startInstance.getOptions>>
+  }
+}

@@ -7,7 +7,7 @@ export const Route = createFileRoute("/")({
       {
         name: "description",
         content:
-          "Meet Skyland Apps: FRIDAY Canvas, LnkLokr, My$, My Support Agent, Go Shop, Go News, and more. Private, intuitive tools built to keep things simple.",
+          "Meet Skyland Apps: FRIDAY Canvas, LnkLokr, TOC, My Support Agent, Go Shop, Go News, and more. Private, intuitive tools built to keep things simple.",
       },
     ],
   }),
@@ -58,6 +58,15 @@ const apps: App[] = [
     blurb:
       "Turn your inbox into an organized support desk with AI-drafted replies — no plugins, no integrations.",
     external: "https://www.my-support-agent.com/",
+  },
+  {
+    to: "/my-toc",
+    name: "TOC",
+    tag: "mytoc.app",
+    status: "Available",
+    blurb:
+      "TOC is the executive command layer for people who move work with words — issue a Directive, assign your team, confirm it’s done.",
+    external: "https://mytoc.app",
   },
   {
     to: "/mny",

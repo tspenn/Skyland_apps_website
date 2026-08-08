@@ -15,6 +15,9 @@ Secure, intelligent link and clipboard management. Keep, Borrow, Share, or Bury 
 ### [My Support Agent](/my-support-agent-2)
 Turn your inbox into an organized support desk with AI-drafted replies. — [my-support-agent.com](https://www.my-support-agent.com/)
 
+### [TOC — Tactical Operations Command](/my-toc)
+Issue a Directive, assign your team, confirm it’s done. Clear ownership. Instant status. — [MyTOC.app](https://mytoc.app)
+
 ### [FRIDAY Desk](/desk)
 The AI-powered work desk for modern business — the enterprise tier of FRIDAY Canvas.
 
