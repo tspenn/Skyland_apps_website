@@ -134,15 +134,14 @@ function Index() {
           Skyland Reach — Tech Division
         </p>
         <h1 className="text-5xl md:text-7xl leading-tight">
-          Welcome to the frontier
-          <br />
-          of <span className="text-[color:var(--color-gold)]">Skyland Reach</span>
+          Welcome to{" "}
+          <span className="text-[color:var(--color-gold)]">Skyland Web Suite</span>
         </h1>
         <p className="mt-6 text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
-          We build intuitive, zero-install web utilities that keep you organized,
-          productive, and ahead of the game—a central hub for your ideas, a secure
-          vault for your links, and a smarter way to run your day. Simple, fast,
-          and light on your devices.
+          We design intuitive, zero-install web utilities built to enhance your
+          everyday lifestyle and productivity—a central hub for your ideas, a
+          secure vault for your links, and a smarter way to run your day. Simple,
+          fast, and light on your devices.
         </p>
         <div className="mt-8 flex flex-wrap justify-center gap-3">
           <Link
