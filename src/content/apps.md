@@ -26,7 +26,7 @@ The AI-powered work desk for modern business — the enterprise tier of FRIDAY C
 A web-based shopping companion — private, secure, and it will not bloat the device. Lists, recipes, trip planning, stock tracking, projects, and a budget — remembered, reusable, ready for the next store run. — [my-go-shop.com](https://www.my-go-shop.com/)
 
 ### [Go News](/go-news-app)
-A calm, scrollable international news reader. Business, Politics, Sports, Fashion, Lifestyle. — go-news.app
+Keeping tabs on all the things that matter. A web-based news companion — light, fast, and ready on all your devices. World, Africa, faith, geopolitics, sports, fashion, lifestyle, and tech. — [go-news.app](https://go-news.app/)
 
 
 ## In Development

@@ -102,7 +102,9 @@ const apps: App[] = [
     tag: "go-news.app",
     status: "Available",
     blurb:
-      "A calm, scrollable international news reader. Business, politics, sports, fashion & lifestyle.",
+      "Keeping tabs on all the things that matter. A web-based news companion — light, fast, and ready on all your devices. World, Africa, faith, geopolitics, sports, fashion, lifestyle, and tech. No store. No bloat.",
+    image: "/go-news-hero.png",
+    external: "https://go-news.app/",
   },
   {
     to: "/my-secret-agent",
