@@ -20,6 +20,7 @@ type App = {
   tag: string;
   status: "Available" | "Beta" | "In Development";
   blurb: string;
+  image?: string;
   external?: string;
 };
 
@@ -91,7 +92,9 @@ const apps: App[] = [
     tag: "my-go-shop.com",
     status: "Available",
     blurb:
-      "Not your everyday shopping planner. A smarter way to plan your next trip.",
+      "A web-based shopping companion — private, secure, and it will not bloat the device. Lists, recipes, trip planning, stock tracking, projects, and a budget — remembered, reusable, ready for the next store run.",
+    image: "/go-shop-hero.png",
+    external: "https://www.my-go-shop.com/",
   },
   {
     to: "/go-news-app",
@@ -232,6 +235,15 @@ function Index() {
               to={app.to}
               className="group block rounded-xl border border-border bg-card/60 p-6 hover:border-[color:var(--color-gold)]/60 hover:no-underline transition-colors"
             >
+              {app.image && (
+                <div className="-mx-6 -mt-6 mb-4 overflow-hidden rounded-t-xl">
+                  <img
+                    src={app.image}
+                    alt=""
+                    className="w-full h-auto block"
+                  />
+                </div>
+              )}
               <div className="flex items-center justify-between gap-3 mb-2">
                 <h3 className="text-xl text-foreground group-hover:text-[color:var(--color-gold)] transition-colors">
                   {app.name}

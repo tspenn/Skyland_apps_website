@@ -23,7 +23,7 @@ The AI-powered work desk for modern business — the enterprise tier of FRIDAY C
 
 ---
 ### [Go Shop!](/go-shop)
-Not your everyday shopping planner. Details to follow. — my-go-shop.com
+A web-based shopping companion — private, secure, and it will not bloat the device. Lists, recipes, trip planning, stock tracking, projects, and a budget — remembered, reusable, ready for the next store run. — [my-go-shop.com](https://www.my-go-shop.com/)
 
 ### [Go News](/go-news-app)
 A calm, scrollable international news reader. Business, Politics, Sports, Fashion, Lifestyle. — go-news.app

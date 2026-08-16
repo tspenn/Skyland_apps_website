@@ -1,205 +1,86 @@
 # Go Shop!
 
+Go Shop! is a web-based shopping and planning companion for people who want one calm place for the list, the pantry, the trip, the recipes, and the bigger home jobs — on a phone or a computer.
 
-### *The shopping planner that actually thinks like you do.*
+It is private, secure, and it will not bloat the device. Same lists, same companion — just open it in the browser, or from the home screen, and keep going.
 
-![](https://getfridayshelp.com/wp-content/uploads/2026/05/landing_mobile_header.png)
+### Your personal shopping companion.
 
-~
-
-Your personal shopping companion for every store, every trip, and everything in between.
-
-Go Shop! keeps your grocery list, your pantry stock, your meal recipes, your household projects, and your shopping trips all in one calm, organized place — on your phone or your computer.
-
-No clutter. No overwhelm. Just the list you need, right when you need it.
-
-Try Go Shop! Free — forever. Upgrade when you’re ready.
-
-~
-
-### Everything You Need. One Place.
-
-~
-
-#### The List
-
-Your everyday shopping list — fast and simple.
-Add items, check them off, and clear when done.
-Items auto-suggest from your personal Catalog,
-so the things you buy regularly are always one tap away.
-
-~
-
-#### The Catalog
-
-Your master list of everything you buy.
-Every product you’ve ever added, in one searchable place.
-Tap to add to any list or trip instantly. Click on the PLAN tab, and you can access the Catalog here.
-Use the barcode scanner to add packaged items straight from the store shelf.
-
-~
-
-#### Stock
-
-Think of it as your pantry tracker.
-Keep a running list of what you have on hand and what you’re running low on.
-Scan a barcode at the store — it adds to both Stock and your Catalog automatically.
-No more buying things you already have.
-
-~
-
-#### Plan a Shopping Trip!
-
-Going to multiple stores?
-Plan it all in one trip. Or more trips. One for groceries, and sporting goods, or hardware. Another for designer fashion at the outlet mall…
-Add stores, assign items to each stop,
-reorder as you go.
-Great for big shopping days, Sam’s Club runs, or coordinating a household.
-
-~
-
-#### Recipes
-
-Your personal recipe book — stored right where your shopping list lives.
-Add ingredients directly to your list with one tap.
-Search recipes by name or ingredient.
-Mark favorites for quick access.
-Export your recipe collection for backup. Import it anytime.
-
-~
-
-#### Organize
-
-Part project board, part idea journal — for everything that isn’t groceries.
-
-Plan a renovation. Organize a move. Track a DIY project.
-Every project has its own workspace with:
-
-* Shopping List — items auto-sync to your main list
-* To-Do Tasks — steps and action items
-* Notes & Ideas — a freeform writing space
-* Inspiration Images — paste, drag, or upload photos from anywhere
-* Next — a single-slot bookmark for your immediate next action
-
-~
-
-#### Budget
-
-Keep a rough eye on spending as you shop.
-Simple, no bank connections required.
-
-~
-
-~
-
-### The Barcode Scanner
-
-~
-
-Available in Catalog and Stock.
-
-In the store and spot something new?
-Open the scanner, point at the barcode —
-Go Shop! looks it up and adds the product name automatically.
-
-Scanning in Stock also adds to your Catalog.
-Scanning in Catalog adds to Catalog only.
-
-Works on any modern smartphone.
-
-~
-
-~
-
-### Sync Across Your Devices
-
-~
-
-Sign in on your phone, your tablet, your laptop —
-Go Shop! picks up right where you left off.
-
-Cloud sync is included with My Go Shop and Family Go Shop.
-
-~
-
-~
-
-### Pricing
+Lists, recipes, trip planning, stock tracking, projects, and a budget — remembered, reusable, ready for the next store run.
 
 ---
 
-#### Go Shop!
+Most shopping tools stop at a checklist. Go Shop! is built around a different idea: everything you buy or stock gets remembered, so the next trip takes seconds instead of starting from a blank page.
 
-Free — forever (until we change it!)
+Add an item once — on the list, in the pantry, from a recipe, or by scanning a barcode — and it lands in your Catalog, a personal price book that grows with you. Next time you need milk, paint, or the ingredients for Tuesday’s dinner, you send it back to the list or into a planned outing. No retyping. No “what did that cost last time?”
 
-Everything you need to get started.
-
-* Shopping list
-* Pantry stock tracker
-* Barcode scanner
-* Trip planning (up to 3 trips)
-* Recipes (up to 10)
-* Organize projects (up to 3)
-* Budget tracker
-* Personal Catalog
-
-No credit card. No expiration.
+It is designed to feel quiet and organized: check things off while you walk the aisle, plan a weekend run by store, keep household staples on hand, and pin the next step on a home project before you close the tab.
 
 ---
 
-#### My Go Shop
+## How it fits together
 
-$3.99/month | $35.91/year — 3 months free
+### List
 
-Your personal shopping companion, fully unlocked.
+List is what you need today. Add a name, quantity, and price. Check items off as you shop — done items drop to the bottom so the aisle stays clear. Reorder with arrows, or move something into a different store grouping. Long-press to edit or delete. Anything you add here is saved to Catalog automatically. Items that arrive from Plan or Catalog show up unchecked and ready.
 
-* Everything in Go Shop! Free
-* Unlimited recipes
-* Unlimited trips
-* Unlimited organize projects
-* Unlimited inspiration images
-* Recipe import & export (backup your whole recipe book)
-* Cloud sync across your devices
-* No ads
+### Stock
+
+Stock is the permanent pantry — the essentials you always keep. They stay until you remove them. Scan a barcode on your phone and the product name is saved to Stock and Catalog; you can keep scanning, then enter a unit price when you want. Or add by name. Long-press to send something to the List when you are running low.
+
+### Plan
+
+Plan is the outing, not the aisle. Create a trip (“Weekend Run”), add the stores you will visit, and drop items under each one. Reorder within a store or move an item to another stop. When you are ready, Export to List — everything lands unchecked for shopping, and the trip stays intact so you can reuse it. Checking happens in List, not in Plan.
+
+### Catalog
+
+Catalog is your memory. Every item from List, Stock, Plan, or Recipes collects here. Search it. Select one or many and send them to List or into an active trip (they land in the first store; you arrow them to the right shelf). Scan a barcode here to add a name only, then place it where you need it. Items that arrive from other Skyland products (such as GoTRVL) show a “New” badge so you can keep or remove them.
+
+### Budget
+
+Budget shows where the money goes — totals from List and Stock, costs by trip and category, and how that sits against your own targets.
+
+### Recipes
+
+Recipes keep ingredients, quantities, and notes in one place. Send a recipe’s ingredients straight to the List. Ingredients are saved to Catalog. Organize by tag, cuisine, or category. Dictate item names with speech where it helps; import from a page when you are on a paid plan.
+
+### Projects
+
+Projects are for the bigger jobs — a music room, a garden bed, a move. Each project has a shopping list (which also feeds the main List), to-do tasks you can check off, a single Next bookmark for the next session, freeform notes, and an inspiration board. Paste or drop images on a computer, upload from a phone gallery, or add a direct image link. Add your own sections (Questions, Supplies, Links). Archive when the job is done.
 
 ---
 
-#### Family Go Shop
+## Built for the way people actually shop
 
-$5.99/month | $53.91/year — 3 months free
-
-Your household’s shopping companion.
-Recipes, projects, shared lists, and no ads —
-all yours, for the whole family.
-
-* Everything in My Go Shop
-* Shared household list
-* Up to 3 members (including you)
-* Cloud sync for the whole household
-* No ads for everyone
+* **Phone or computer.** Same lists, same companion — just open it in the browser, or from the home screen, and keep going. Nothing to download from a store.
+* **Barcode scanning (mobile).** Point the camera at a product; the name comes from a global food database (Open Food Facts). Prices are not in those barcodes — you add them when you care about the number. Scan continuously in Stock or inside a project; scan in Catalog when you only want the name on file.
+* **Speech.** Dictate an item name on List or Stock, then set quantity and price.
+* **Chrome companion.** A browser sidebar that talks to the open Go Shop! tab when you want the list beside a recipe or a store site.
+* **Cloud sync on paid plans, across devices.** Family shares one household list — up to three people, unlimited devices — with invites from Settings.
+* **Private, secure, and light.** Your data stays yours. Never sold. It will not bloat the device. Cancel anytime.
 
 ---
 
-~
+## Who it is for
 
-### Private. Yours. Always.
+Households that shop more than one store. People who cook from saved recipes and hate retyping ingredients. Anyone restocking a pantry by habit. Anyone running a home project that needs both a mood board and a hardware-store list. Families who want one shared list instead of three competing notes.
 
-~
+---
 
-Your shopping data belongs to you.
-We do not sell it, share it, or use it to train anything.
-Everything is stored securely and synced privately.
+## Plans
 
-Built by Skyland Reach — the same people behind FRIDAY Canvas —
-for real people who want a simple, honest tool
-that does exactly what it says.
+| Plan | Position |
+| --- | --- |
+| **Intro** | Ad-supported start. Lists, trips, stock, recipes — no credit card. |
+| **My Go Shop** | No ads. Unlimited recipes. Projects. Barcode scanner. Import. Cloud sync across your devices. |
+| **Family Go Shop** | One household list. Up to three people. Unlimited devices. |
 
-~
+Promo codes apply at Stripe checkout. Subscribe monthly or annually.
 
-### Try Go Shop! Free <https://www.my-go-shop.com/>
+---
 
-No credit card. No time limit. Start your list right now.
+Go Shop! is the place you plan the trip, walk the aisle, restock the pantry, save the recipe, and keep the next home project from falling out of your head — so shopping is a habit you already remember, not a list you rebuild every week.
 
-Just so you know… Skyland Suite tools are cloud-based, so they won’t bloat your phone or slow it down. There’s no heavy download required—just add it straight to your home screen for easy access. It works across all your devices, whether you’re on Android, iOS, or a laptop. Best of all? All data is stored on Supabase servers, using top industry standards to keep your privacy locked down.
+### Try Go Shop! <https://www.my-go-shop.com/>
 
-Questions? Email support@skylandapps.com Tell us which utility you have questions about!
+A Skyland Reach product · [support@skylandreach.com](mailto:support@skylandreach.com)
