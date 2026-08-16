@@ -77,7 +77,7 @@ What’s included:
 
 — Full control of your support operation · $39.99/mo · $359.91/yr *Save 25% annually*
 
-For growing teams handling serious support volume across multiple apps, brands, or locations.
+For growing teams handling serious support volume across multiple products, brands, or locations.
 
 Everything in Specialist, plus:
 
@@ -104,7 +104,7 @@ My Support Agent is entirely cloud-based. No download, no plugin, no browser ext
 
 ## **Get your support agent – [HERE](https://www.my-support-agent.com/)**
 
-Questions? Email support@skylandapps.com Tell us which app you have questions about!
+Questions? Email support@skylandapps.com Tell us which utility you have questions about!
 
 © 2026 Skyland Reach LLC
 

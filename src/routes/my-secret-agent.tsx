@@ -5,9 +5,9 @@ import content from "@/content/my-secret-agent.md?raw";
 export const Route = createFileRoute("/my-secret-agent")({
   head: () => ({
     meta: [
-      { title: "My Secret Agent — Skyland Apps" },
+      { title: "My Secret Agent — Skyland Suite" },
       { name: "description", content: "Your covert operative for prices, stocks, and website changes." },
-      { property: "og:title", content: "My Secret Agent — Skyland Apps" },
+      { property: "og:title", content: "My Secret Agent — Skyland Suite" },
       { property: "og:description", content: "Your covert operative for prices, stocks, and website changes." },
     ],
   }),

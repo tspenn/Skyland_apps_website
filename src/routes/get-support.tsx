@@ -5,10 +5,10 @@ import content from "@/content/get_support.md?raw";
 export const Route = createFileRoute("/get-support")({
   head: () => ({
     meta: [
-      { title: "Get Support — My Support Agent — Skyland Apps" },
-      { name: "description", content: "Get help and reach the Skyland Apps support team." },
-      { property: "og:title", content: "Get Support — My Support Agent — Skyland Apps" },
-      { property: "og:description", content: "Get help and reach the Skyland Apps support team." },
+      { title: "Get Support — My Support Agent — Skyland Suite" },
+      { name: "description", content: "Get help and reach the Skyland Suite support team." },
+      { property: "og:title", content: "Get Support — My Support Agent — Skyland Suite" },
+      { property: "og:description", content: "Get help and reach the Skyland Suite support team." },
     ],
   }),
   component: Page,

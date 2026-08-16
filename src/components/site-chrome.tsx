@@ -2,7 +2,7 @@ import { Link } from "@tanstack/react-router";
 
 const navLinks: { to: string; label: string }[] = [
   { to: "/", label: "Home" },
-  { to: "/apps", label: "Apps" },
+  { to: "/apps", label: "Suite" },
   { to: "/friday-canvas", label: "FRIDAY Canvas" },
   { to: "/desk", label: "FRIDAY Desk" },
   { to: "/lnklokr", label: "LnkLokr" },
@@ -22,7 +22,7 @@ export function SiteHeader() {
             Skyland
           </span>
           <span className="text-sm tracking-[0.25em] uppercase text-muted-foreground">
-            Apps
+            Suite
           </span>
         </Link>
         <nav className="flex flex-wrap gap-x-4 gap-y-2 text-sm">
@@ -72,7 +72,7 @@ export function SiteFooter() {
           </div>
           <div className="flex flex-col sm:items-end gap-1">
             <a href="mailto:support@skylandapps.com">support@skylandapps.com</a>
-            <Link to="/apps">Browse all apps →</Link>
+            <Link to="/apps">Browse the suite →</Link>
           </div>
         </div>
       </div>

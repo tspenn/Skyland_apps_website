@@ -33,7 +33,7 @@ Resets at Payday: Every pay cycle starts clean. Your number always reflects whe
 
 ## It’s Not Magic — It’s Math
 
-My$ connects to your bank through Plaid — the same secure network used by Venmo, Acorns, and thousands of other apps. Your bank password never touches us.
+My$ connects to your bank through Plaid — the same secure network used by Venmo, Acorns, and thousands of other tools. Your bank password never touches us.
 
 From there, My$ identifies your regular income and recurring bills automatically. It knows your rent hits on the 1st. It knows your paycheck lands on Friday. It does the subtraction.
 
@@ -138,11 +138,11 @@ MNY$ Corporate Bottom Line is built for founders, operators, and finance leads 
 
 ## Just So You Know
 
-Skyland Apps are entirely cloud-based — they won’t bloat your phone or slow it down. No heavy download required. Add My$ straight to your home screen for instant access. Works on Android, iOS, and laptop.
+Skyland Suite tools are entirely cloud-based — they won’t bloat your phone or slow it down. No heavy download required. Add My$ straight to your home screen for instant access. Works on Android, iOS, and laptop.
 
 ---
 
-Questions? Email support@skylandapps.com Tell us which app you have questions about!
+Questions? Email support@skylandapps.com Tell us which utility you have questions about!
 
 © 2026 Skyland Reach LLC
 

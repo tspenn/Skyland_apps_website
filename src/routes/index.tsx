@@ -3,11 +3,11 @@ import { createFileRoute, Link } from "@tanstack/react-router";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Skyland Web Suite — Intuitive tools from Skyland Reach" },
+      { title: "Skyland Suite — Tools that make life simple from Skyland Reach" },
       {
         name: "description",
         content:
-          "Meet Skyland Web Suite: FRIDAY Canvas, LnkLokr, TOC, My Support Agent, Go Shop, Go News, and more. Private, intuitive tools built to keep things simple.",
+          "Skyland Suite: zero-install tools that make life simple while doing the heavy lifting—FRIDAY Canvas, Desk, TOC, LnkLokr, My Support Agent, and more.",
       },
     ],
   }),
@@ -135,20 +135,20 @@ function Index() {
         </p>
         <h1 className="text-5xl md:text-7xl leading-tight">
           Welcome to{" "}
-          <span className="text-[color:var(--color-gold)]">Skyland Web Suite</span>
+          <span className="text-[color:var(--color-gold)]">Skyland Suite</span>
         </h1>
         <p className="mt-6 text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
-          We design intuitive, zero-install web utilities built to enhance your
-          everyday lifestyle and productivity—a central hub for your ideas, a
-          secure vault for your links, and a smarter way to run your day. Simple,
-          fast, and light on your devices.
+          Zero-install tools that make life simple while doing the heavy
+          lifting—for your day, your work, and the teams that need clarity. A
+          hub for your ideas, a vault for your links, and a smarter way to
+          operate. Simple, fast, and light on your devices.
         </p>
         <div className="mt-8 flex flex-wrap justify-center gap-3">
           <Link
             to="/apps"
             className="inline-flex items-center rounded-md bg-[color:var(--color-gold)] px-5 py-2.5 text-sm font-medium text-[color:var(--color-primary-foreground)] hover:no-underline hover:opacity-90 transition"
           >
-            Browse all utilities
+            Browse the suite
           </Link>
           <Link
             to="/friday-canvas"

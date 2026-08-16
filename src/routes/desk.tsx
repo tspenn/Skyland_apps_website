@@ -5,9 +5,9 @@ import content from "@/content/desk.md?raw";
 export const Route = createFileRoute("/desk")({
   head: () => ({
     meta: [
-      { title: "FRIDAY Desk — Skyland Apps" },
+      { title: "FRIDAY Desk — Skyland Suite" },
       { name: "description", content: "The AI-powered work desk for modern business." },
-      { property: "og:title", content: "FRIDAY Desk — Skyland Apps" },
+      { property: "og:title", content: "FRIDAY Desk — Skyland Suite" },
       { property: "og:description", content: "The AI-powered work desk for modern business." },
     ],
   }),

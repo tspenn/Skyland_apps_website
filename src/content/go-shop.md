@@ -1,7 +1,7 @@
 # Go Shop!
 
 
-### *The shopping app that actually thinks like you do.*
+### *The shopping planner that actually thinks like you do.*
 
 ![](https://getfridayshelp.com/wp-content/uploads/2026/05/landing_mobile_header.png)
 
@@ -17,7 +17,7 @@ Try Go Shop! Free — forever. Upgrade when you’re ready.
 
 ~
 
-### Everything You Need. One App.
+### Everything You Need. One Place.
 
 ~
 
@@ -191,7 +191,7 @@ We do not sell it, share it, or use it to train anything.
 Everything is stored securely and synced privately.
 
 Built by Skyland Reach — the same people behind FRIDAY Canvas —
-for real people who want a simple, honest app
+for real people who want a simple, honest tool
 that does exactly what it says.
 
 ~
@@ -200,6 +200,6 @@ that does exactly what it says.
 
 No credit card. No time limit. Start your list right now.
 
-Just so you know… Skyland Apps are cloud-based, so they won’t bloat your phone or slow it down. There’s no heavy download required—just add it straight to your home screen for easy access. It works across all your devices, whether you’re on Android, iOS, or a laptop. Best of all? All data is stored on Supabase servers, using top industry standards to keep your privacy locked down.
+Just so you know… Skyland Suite tools are cloud-based, so they won’t bloat your phone or slow it down. There’s no heavy download required—just add it straight to your home screen for easy access. It works across all your devices, whether you’re on Android, iOS, or a laptop. Best of all? All data is stored on Supabase servers, using top industry standards to keep your privacy locked down.
 
-Questions? Email support@skylandapps.com Tell us which app you have questions about!
+Questions? Email support@skylandapps.com Tell us which utility you have questions about!

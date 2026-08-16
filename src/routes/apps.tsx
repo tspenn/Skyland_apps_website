@@ -5,10 +5,10 @@ import content from "@/content/apps.md?raw";
 export const Route = createFileRoute("/apps")({
   head: () => ({
     meta: [
-      { title: "APPS — Skyland Apps" },
-      { name: "description", content: "The complete lineup of Skyland Reach apps." },
-      { property: "og:title", content: "APPS — Skyland Apps" },
-      { property: "og:description", content: "The complete lineup of Skyland Reach apps." },
+      { title: "The Suite — Skyland Suite" },
+      { name: "description", content: "The complete lineup of Skyland Suite tools from Skyland Reach." },
+      { property: "og:title", content: "The Suite — Skyland Suite" },
+      { property: "og:description", content: "The complete lineup of Skyland Suite tools from Skyland Reach." },
     ],
   }),
   component: Page,

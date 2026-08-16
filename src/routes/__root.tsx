@@ -78,18 +78,18 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Skyland Apps — Intuitive, private everyday apps from Skyland Reach" },
+      { title: "Skyland Suite — Tools that make life simple from Skyland Reach" },
       {
         name: "description",
         content:
-          "Skyland Apps builds calm, private, everyday tools — FRIDAY Canvas, LnkLokr, My$, My Support Agent and more — from Skyland Reach.",
+          "Skyland Suite: zero-install tools that make life simple while doing the heavy lifting — FRIDAY Canvas, Desk, TOC, LnkLokr, My Support Agent, and more.",
       },
       { name: "author", content: "Skyland Reach LLC" },
-      { property: "og:title", content: "Skyland Apps — Intuitive apps from Skyland Reach" },
+      { property: "og:title", content: "Skyland Suite — Tools that make life simple" },
       {
         property: "og:description",
         content:
-          "A growing family of private, intuitive everyday apps: FRIDAY Canvas, LnkLokr, My$, My Support Agent, and more.",
+          "Zero-install tools that make life simple while doing the heavy lifting — for your day, your work, and your teams.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },

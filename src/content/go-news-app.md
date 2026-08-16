@@ -1,4 +1,4 @@
-# Go News App
+# Go News
 
 
 Keeping Tabs on all the things that matter. Not just one thing. Not just one take.
@@ -7,7 +7,7 @@ Keeping Tabs on all the things that matter. Not just one thing. Not just one tak
 
 Go-News.com
 
-#### **The news app that actually keeps you in the know.**
+#### **The news reader that actually keeps you in the know.**
 
 ~
 
@@ -47,12 +47,12 @@ Save & Folders (Premium) Your personal news library — right inside Go News. Ta
 
 Offline Reading (Premium) Saved an article on Wi-Fi? Read it anywhere. Go News archives the full text in the background the moment you save. On a plane, underground, out of signal — your saved stories are always there. Look for the Archived badge to know it’s ready.
 
-### What to expect from the Go News App:
+### What to expect from Go News:
 
-* **No Algorithm Games, No Viral Nonsens**e – Apps like Apple News, Google News, or social feeds use engagement algorithms designed to keep users outraged or trapped in a loop. They prioritize clickbait and “viral” metrics over actual substance.
+* **No Algorithm Games, No Viral Nonsens**e – Feeds like Apple News, Google News, or social feeds use engagement algorithms designed to keep users outraged or trapped in a loop. They prioritize clickbait and “viral” metrics over actual substance.
 * **The Go News Advantage:** It’s a clean, chronological feed. Users get real news updated in real time without a machine trying to manipulate what they see.
 * **No heavy downloads**. No storage bloat. Just instant, secure access across all your devices.
-* **Honest Privacy.** Traditional news apps are notorious data trackers, building advertising profiles based on every single headline you click. Your **Go News** App NEVER tracks your reading. Your reading data is private, secure, and never sold or shared
+* **Honest Privacy.** Traditional news readers are notorious data trackers, building advertising profiles based on every single headline you click. Your **Go News** NEVER tracks your reading. Your reading data is private, secure, and never sold or shared
 * **10 Categories. One Tap Away.**
 
 World International headlines from every corner of the globe.
@@ -61,7 +61,7 @@ U.S. National news, politics, and stories from across America.
 
 Business Markets, economy, entrepreneurship, and corporate news.
 
-Africa Dedicated coverage of the African continent — politics, culture, business, and more. One of the few apps that takes Africa seriously.
+Africa Dedicated coverage of the African continent — politics, culture, business, and more. One of the few readers that takes Africa seriously.
 
 Faith News at the intersection of faith, culture, and society. Christian, Jewish, Islamic, and global faith coverage.
 
@@ -131,6 +131,6 @@ Built by Skyland Reach — the same people behind FRIDAY Canvas and Go Shop! —
 
 ***Try Go News Free*** <https://go-news.app/> No credit card. No time limit. Start reading right now.
 
-Just so you know… Skyland Apps are cloud-based, so they won’t bloat your phone or slow it down. There’s no heavy download required — just add it straight to your home screen for easy access. It works across all your devices, whether you’re on Android, iOS, or a laptop. Best of all? All data is stored on Supabase servers, using top industry standards to keep your privacy locked down.
+Just so you know… Skyland Suite tools are cloud-based, so they won’t bloat your phone or slow it down. There’s no heavy download required — just add it straight to your home screen for easy access. It works across all your devices, whether you’re on Android, iOS, or a laptop. Best of all? All data is stored on Supabase servers, using top industry standards to keep your privacy locked down.
 
-Questions? Email support@skylandapps.com Tell us which app you have questions about!
+Questions? Email support@skylandapps.com Tell us which utility you have questions about!

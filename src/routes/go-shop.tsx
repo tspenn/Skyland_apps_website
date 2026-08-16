@@ -5,9 +5,9 @@ import content from "@/content/go-shop.md?raw";
 export const Route = createFileRoute("/go-shop")({
   head: () => ({
     meta: [
-      { title: "Go Shop! — Skyland Apps" },
+      { title: "Go Shop! — Skyland Suite" },
       { name: "description", content: "Not your everyday shopping planner." },
-      { property: "og:title", content: "Go Shop! — Skyland Apps" },
+      { property: "og:title", content: "Go Shop! — Skyland Suite" },
       { property: "og:description", content: "Not your everyday shopping planner." },
     ],
   }),

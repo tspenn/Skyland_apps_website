@@ -12,7 +12,7 @@ LnkLokr is your personal content vault. Quickly save links, images, and text fro
 ## Quick Start
 
 1. **Visit lnklokr.com** —
-2. **Add to Home Screen** — Install as an app for the best experience
+2. **Add to Home Screen** — Install to your home screen for the best experience
 3. **Copy → Open → Tap** — Copy any link, open LnkLokr, tap a category. Done!
 
 ---
@@ -53,7 +53,7 @@ To change themes: Open **Settings** → scroll to **Appearance** → tap you
 
 **Desktop Chrome** — Install the LnkLokr Chrome extension to right-click and save pages, links, and images directly from your browser.
 
-**Desktop PWA** — In Chrome/Edge, click the install icon in the address bar to add LnkLokr as a desktop app.
+**Desktop PWA** — In Chrome/Edge, click the install icon in the address bar to add LnkLokr as a desktop shortcut.
 
 ---
 
@@ -77,7 +77,7 @@ To change themes: Open **Settings** → scroll to **Appearance** → tap you
 
 Your data — whether kept, borrowed, shared, or buried — is **your data**. We never see it. It all stays right on your device until you clear it or download it. We don’t share it with others because we can’t — we have no access to your data. Your digital treasure chest is yours alone. You can upload to the cloud but even then it is securely protected.
 
-All Skyland Apps are cloud-based, so they won’t bloat your phone or slow it down. There’s no heavy download required—just add it straight to your home screen for easy access. It works across all your devices, whether you’re on Android, iOS, or a laptop. Best of all? All data about your sign in and use is stored on Supabase servers, using top industry standards to keep your privacy locked down.
+All Skyland Suite tools are cloud-based, so they won’t bloat your phone or slow it down. There’s no heavy download required—just add it straight to your home screen for easy access. It works across all your devices, whether you’re on Android, iOS, or a laptop. Best of all? All data about your sign in and use is stored on Supabase servers, using top industry standards to keep your privacy locked down.
 
 ---
 
@@ -87,6 +87,6 @@ All Skyland Apps are cloud-based, so they won’t bloat your phone or slow it do
 
 Everything – Literally at your fingertips!
 
-Questions? Email support@skylandapps.com Tell us which app you have questions about!
+Questions? Email support@skylandapps.com Tell us which utility you have questions about!
 
 *LnkLokr v1.0 • © 2026 Skyland Reach lLC*

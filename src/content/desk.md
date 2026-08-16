@@ -7,7 +7,7 @@
 
 ## Executive Overview
 
-In fast-paced business environments, knowledge fragmentation is a productivity killer. Teams lose hours managing endless browser tabs, chasing updates across chat apps, and babysitting rigid internal wikis.
+In fast-paced business environments, knowledge fragmentation is a productivity killer. Teams lose hours managing endless browser tabs, chasing updates across chat tools, and babysitting rigid internal wikis.
 
 FRIDAY Desk™ bridges the gap between deep research and immediate action. It provides a secure, unified digital environment where professionals can capture data, cross-reference active research, and broadcast critical updates to external clients or mobile teams—all from a single, centralized command center.
 
@@ -53,7 +53,7 @@ Traditional AI interfaces operate as disconnected chat windows. FRIDAY Desk is e
 | --- | --- |
 | **Disjointed Wikis:** Pages you are forced to manually organize and maintain indefinitely. | **Fluid Execution:** A live workspace that lives dynamically right next to your browser. |
 | **Isolated Chat:** Internal conversational AI confined strictly to a passive side panel. | **Direct Distribution:** Text critical business updates directly out of the project matrix to external phones. |
-| **App Fatigue:** Yet another disconnected corporate software login for teams to check. | **The Unified Desk:** A singular pipeline to **Plan $\rightarrow$ Capture $\rightarrow$ Send**. |
+| **Tool Fatigue:** Yet another disconnected corporate software login for teams to check. | **The Unified Desk:** A singular pipeline to **Plan $\rightarrow$ Capture $\rightarrow$ Send**. |
 
 ---
 
@@ -75,7 +75,7 @@ Transition your team from passive notation to active business execution. Secure 
 
 *Flexible corporate billing • Cancel at any time • Supported by Skyland Infrastructure*FRIDAY Desk is the Business tier of FRIDAY Canvas: WorkZones for the real work, an AI that can read what’s open, and Send SMS so status, files, and follow-ups leave the desk and hit the right phone.
 
-Not another notes app. A desk that acts.
+Not another notes tool. A desk that acts.
 
 ---
 
@@ -102,9 +102,9 @@ Not another notes app. A desk that acts.
 ### CTA block
 
 Ready for the Business desk?
-Start on FRIDAY Desk — same secure app, Desk plan only.
+Start on FRIDAY Desk — same secure workspace, Desk plan only.
 
-[Get this business app →](https://www.fridaycanvas.com/desk)
+[Get this business workspace →](https://www.fridaycanvas.com/desk)
 
 Cancel anytime · Powered by Skyland Reach · A division of FRIDAY Canvas
 
@@ -112,7 +112,7 @@ Cancel anytime · Powered by Skyland Reach · A division of FRIDAY Canvas
 
 ### One-liners for ads / buttons
 
-* Get this business app
+* Get this business workspace
 * Open FRIDAY Desk
 * Text from the desk. Work in the Zone.
 * Business productivity that actually sends

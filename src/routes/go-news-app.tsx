@@ -5,10 +5,10 @@ import content from "@/content/go-news-app.md?raw";
 export const Route = createFileRoute("/go-news-app")({
   head: () => ({
     meta: [
-      { title: "Go News — Skyland Apps" },
-      { name: "description", content: "A calm, scrollable international news app." },
-      { property: "og:title", content: "Go News — Skyland Apps" },
-      { property: "og:description", content: "A calm, scrollable international news app." },
+      { title: "Go News — Skyland Suite" },
+      { name: "description", content: "A calm, scrollable international news reader." },
+      { property: "og:title", content: "Go News — Skyland Suite" },
+      { property: "og:description", content: "A calm, scrollable international news reader." },
     ],
   }),
   component: Page,

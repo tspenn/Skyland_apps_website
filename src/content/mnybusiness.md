@@ -102,13 +102,13 @@ Available Now $18,340 – Handing this `.CSV` export to your CPA provides a flaw
 
 1. **Connect Your Accounts** — Bank accounts, credit lines, and corporate reserves sync automatically via Plaid. *(Or let your known recurring streams project balances manually if you prefer).*
 2. **Detect Your Obligations** — MNY$ automatically analyzes your account history to isolate recurring bills and payroll dates, layering them with your custom safety buffer to handle deductions instantly.
-3. **Open the App** — One number. Green means go. Orange means wait.
+3. **Open My$** — One number. Green means go. Orange means wait.
 
 ---
 
 ### 🌐 Lightweight, Cloud-Based & Private
 
-Just so you know… Skyland Apps are entirely cloud-based, so they won’t bloat your phone or slow it down. There’s no heavy download required—just add it straight to your home screen for easy access. It works seamlessly across all your devices, whether you’re on Android, iOS, or a laptop.
+Just so you know… Skyland Suite tools are entirely cloud-based, so they won’t bloat your phone or slow it down. There’s no heavy download required—just add it straight to your home screen for easy access. It works seamlessly across all your devices, whether you’re on Android, iOS, or a laptop.
 
 Best of all? All data is safely stored on Supabase servers, utilizing top enterprise-grade industry standards to keep your financial privacy locked down completely.
 
@@ -122,7 +122,7 @@ Stop guessing. Start knowing.
 
 ---
 
-MNY$ *App – your business, by the numbers.*
+MNY$ *– your business, by the numbers.*
 
 ---
 
@@ -152,7 +152,7 @@ Export when you need to One tap exports your spending to CSV. Hand it to your a
 
 ## Your Money Is Always Safe
 
-MNY$ connects through Plaid — the same secure network trusted by Venmo, Acorns, and thousands of other apps.
+MNY$ connects through Plaid — the same secure network trusted by Venmo, Acorns, and thousands of other tools.
 
 * Read-only connection. We cannot touch, move, or withdraw a single penny. Ever.
 * Your bank password never touches us.
@@ -169,7 +169,7 @@ MNY$ connects through Plaid — the same secure network trusted by Venmo, Acorns
 
 *How much is left in each budget?*
 
-For the freelancer, side-hustler, or small business owner who needs more than a personal finance app — but doesn’t need a full accounting platform.
+For the freelancer, side-hustler, or small business owner who needs more than a personal finance tool — but doesn’t need a full accounting platform.
 
 Everything in My$ Pro, plus:
 
@@ -227,8 +227,8 @@ How much is left?
 
 SkylandApps.com/MyMny
 
-Just so you know… Skyland Apps are cloud-based, so they won’t bloat your phone or slow it down. There’s no heavy download required—just add it straight to your home screen for easy access. It works across all your devices, whether you’re on Android, iOS, or a laptop. Best of all? All data is stored on Supabase servers, using top industry standards to keep your privacy locked down.
+Just so you know… Skyland Suite tools are cloud-based, so they won’t bloat your phone or slow it down. There’s no heavy download required—just add it straight to your home screen for easy access. It works across all your devices, whether you’re on Android, iOS, or a laptop. Best of all? All data is stored on Supabase servers, using top industry standards to keep your privacy locked down.
 
 See – [www.My-MNY.app](https://www.My-Mny.app)!
 
-Questions? Email support@skylandapps.com Tell us which app you have questions about!
+Questions? Email support@skylandapps.com Tell us which utility you have questions about!

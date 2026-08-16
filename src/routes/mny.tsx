@@ -5,9 +5,9 @@ import content from "@/content/mny.md?raw";
 export const Route = createFileRoute("/mny")({
   head: () => ({
     meta: [
-      { title: "My$ — Skyland Apps" },
+      { title: "My$ — Skyland Suite" },
       { name: "description", content: "One button, one answer — know what you can actually spend right now." },
-      { property: "og:title", content: "My$ — Skyland Apps" },
+      { property: "og:title", content: "My$ — Skyland Suite" },
       { property: "og:description", content: "One button, one answer — know what you can actually spend right now." },
     ],
   }),

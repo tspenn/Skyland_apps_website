@@ -5,9 +5,9 @@ import content from "@/content/lnklokr.md?raw";
 export const Route = createFileRoute("/lnklokr")({
   head: () => ({
     meta: [
-      { title: "LnkLokr — Skyland Apps" },
+      { title: "LnkLokr — Skyland Suite" },
       { name: "description", content: "Secure, intelligent link and clipboard management." },
-      { property: "og:title", content: "LnkLokr — Skyland Apps" },
+      { property: "og:title", content: "LnkLokr — Skyland Suite" },
       { property: "og:description", content: "Secure, intelligent link and clipboard management." },
     ],
   }),

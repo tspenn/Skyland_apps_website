@@ -5,9 +5,9 @@ import content from "@/content/mnybusiness.md?raw";
 export const Route = createFileRoute("/mnybusiness")({
   head: () => ({
     meta: [
-      { title: "My$ — Business — Skyland Apps" },
+      { title: "My$ — Business — Skyland Suite" },
       { name: "description", content: "Cash-flow clarity for freelancers, side-hustles, and small businesses." },
-      { property: "og:title", content: "My$ — Business — Skyland Apps" },
+      { property: "og:title", content: "My$ — Business — Skyland Suite" },
       { property: "og:description", content: "Cash-flow clarity for freelancers, side-hustles, and small businesses." },
     ],
   }),

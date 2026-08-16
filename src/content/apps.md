@@ -1,6 +1,6 @@
-# The Skyland Apps
+# The Skyland Suite
 
-A growing family of everyday tools from **Skyland Reach — Tech Division**. Each app is built to be simple, fast, and private — no bloat, no lock-in, and your data stays yours.
+A growing family of everyday tools from **Skyland Reach — Tech Division**. Each tool is built to be simple, fast, and private — no bloat, no lock-in, and your data stays yours.
 
 ---
 
@@ -26,7 +26,7 @@ The AI-powered work desk for modern business — the enterprise tier of FRIDAY C
 Not your everyday shopping planner. Details to follow. — my-go-shop.com
 
 ### [Go News](/go-news-app)
-A calm, scrollable international news app. Business, Politics, Sports, Fashion, Lifestyle. — go-news.app
+A calm, scrollable international news reader. Business, Politics, Sports, Fashion, Lifestyle. — go-news.app
 
 
 ## In Development
@@ -44,11 +44,11 @@ Your own covert operative — watches prices, stocks, weather, and websites and 
 Deploy operatives on the markets, competitors and signals that move your business.
 
 ### Go Travel!
-Trip dreams and plans — more a planner than a ticketing app. — go-trvl.com
+Trip dreams and plans — more a planner than a ticketing site. — go-trvl.com
 
 ### Go Fashion
 For keeping track of all THE things in the fashion world. — go-fashion.app
 
 ---
 
-Questions? Email **support@skylandapps.com** — tell us which app you have questions about.
+Questions? Email **support@skylandapps.com** — Tell us which utility you have questions about.

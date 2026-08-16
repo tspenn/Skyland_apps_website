@@ -5,13 +5,13 @@ import content from "@/content/my-toc.md?raw";
 export const Route = createFileRoute("/my-toc")({
   head: () => ({
     meta: [
-      { title: "TOC — Tactical Operations Command — Skyland Apps" },
+      { title: "TOC — Tactical Operations Command — Skyland Suite" },
       {
         name: "description",
         content:
           "TOC is the executive command layer — issue a Directive, attach what matters, assign your team, confirm it’s done. Get it today at MyTOC.app.",
       },
-      { property: "og:title", content: "TOC — Tactical Operations Command — Skyland Apps" },
+      { property: "og:title", content: "TOC — Tactical Operations Command — Skyland Suite" },
       {
         property: "og:description",
         content:
