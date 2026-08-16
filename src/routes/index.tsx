@@ -3,11 +3,11 @@ import { createFileRoute, Link } from "@tanstack/react-router";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Skyland Apps — Intuitive apps from Skyland Reach" },
+      { title: "Skyland Web Suite — Intuitive tools from Skyland Reach" },
       {
         name: "description",
         content:
-          "Meet Skyland Apps: FRIDAY Canvas, LnkLokr, TOC, My Support Agent, Go Shop, Go News, and more. Private, intuitive tools built to keep things simple.",
+          "Meet Skyland Web Suite: FRIDAY Canvas, LnkLokr, TOC, My Support Agent, Go Shop, Go News, and more. Private, intuitive tools built to keep things simple.",
       },
     ],
   }),
@@ -99,7 +99,7 @@ const apps: App[] = [
     tag: "go-news.app",
     status: "Available",
     blurb:
-      "A calm, scrollable international news app. Business, politics, sports, fashion & lifestyle.",
+      "A calm, scrollable international news reader. Business, politics, sports, fashion & lifestyle.",
   },
   {
     to: "/my-secret-agent",
@@ -166,10 +166,11 @@ function Index() {
             Digital Instruments, Not Downloads
           </h2>
           <p className="text-base md:text-lg leading-relaxed text-muted-foreground">
-            Every tool in our suite is designed as a precision device built for a
-            specific purpose. You get instant functionality directly in your
-            browser without install steps, app store permissions, or background
-            battery drain.
+            If you are feeling &quot;App-prehensive&quot;, you are not alone.
+            Traditional app stores force downloads, constant update cycles, and
+            background bloat onto your devices. We build lightweight,
+            browser-native instruments designed for a single purpose: high-utility
+            function with zero baggage.
           </p>
         </div>
         <div className="rounded-xl border border-border bg-card/60 p-8 md:p-10 backdrop-blur-sm">
@@ -214,11 +215,11 @@ function Index() {
         </div>
       </section>
 
-      {/* App grid */}
+      {/* Suite grid */}
       <section className="container-narrow py-12">
         <div className="flex items-baseline justify-between mb-8">
           <h2 className="text-3xl md:text-4xl text-[color:var(--color-gold)]">
-            The apps
+            The suite
           </h2>
           <Link to="/apps" className="text-sm">
             See all →
@@ -256,7 +257,7 @@ function Index() {
         <p className="text-muted-foreground">
           Email{" "}
           <a href="mailto:support@skylandapps.com">support@skylandapps.com</a>{" "}
-          and tell us which app you have questions about.
+          and tell us which utility you have questions about.
         </p>
       </section>
     </main>
