@@ -139,17 +139,17 @@ function Index() {
           of <span className="text-[color:var(--color-gold)]">Skyland Reach</span>
         </h1>
         <p className="mt-6 text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
-          We create intuitive, everyday apps that help you stay organized,
-          productive, and ahead of the game — a central hub for your ideas,
-          a secure vault for your links, a smarter way to plan your day.
-          Simple, fast, and easy to use.
+          We build intuitive, zero-install web utilities that keep you organized,
+          productive, and ahead of the game—a central hub for your ideas, a secure
+          vault for your links, and a smarter way to run your day. Simple, fast,
+          and light on your devices.
         </p>
         <div className="mt-8 flex flex-wrap justify-center gap-3">
           <Link
             to="/apps"
             className="inline-flex items-center rounded-md bg-[color:var(--color-gold)] px-5 py-2.5 text-sm font-medium text-[color:var(--color-primary-foreground)] hover:no-underline hover:opacity-90 transition"
           >
-            Browse all apps
+            Browse all utilities
           </Link>
           <Link
             to="/friday-canvas"
@@ -160,18 +160,57 @@ function Index() {
         </div>
       </section>
 
-      {/* Manifesto */}
-      <section className="container-narrow py-10">
+      {/* Principles */}
+      <section className="container-narrow py-10 space-y-6">
         <div className="rounded-xl border border-border bg-card/60 p-8 md:p-10 backdrop-blur-sm">
+          <h2 className="text-2xl md:text-3xl text-[color:var(--color-gold)] mb-3">
+            Digital Instruments, Not Downloads
+          </h2>
+          <p className="text-base md:text-lg leading-relaxed text-muted-foreground">
+            Every tool in our suite is designed as a precision device built for a
+            specific purpose. You get instant functionality directly in your
+            browser without install steps, app store permissions, or background
+            battery drain.
+          </p>
+        </div>
+        <div className="rounded-xl border border-border bg-card/60 p-8 md:p-10 backdrop-blur-sm">
+          <h2 className="text-2xl md:text-3xl text-[color:var(--color-gold)] mb-3">
+            Zero-Bloat &amp; Privacy-First
+          </h2>
+          <p className="text-base md:text-lg leading-relaxed text-muted-foreground">
+            We eliminate the weight, noise, and invasive tracking of traditional
+            software. Even though these utilities live right in your browser or on
+            your home screen, your data remains strictly yours. Whether it is your
+            workflows, saved links, or private messages and conversations in{" "}
+            <a href="https://my-lokr.com" target="_blank" rel="noopener noreferrer">
+              My-lokr.com
+            </a>
+            , everything is safeguarded with gold-standard Supabase encryption.
+          </p>
+        </div>
+        <div className="rounded-xl border border-border bg-card/60 p-8 md:p-10 backdrop-blur-sm">
+          <h2 className="text-2xl md:text-3xl text-[color:var(--color-gold)] mb-3">
+            Browser-Native Essentials
+          </h2>
+          <p className="text-base md:text-lg leading-relaxed text-muted-foreground">
+            Your web browser is the ultimate, friction-free operating system. Our
+            utilities run smoothly across all your screens, giving you a seamless
+            workspace experience anywhere you log in without locked ecosystem
+            baggage.
+          </p>
+        </div>
+        <div className="rounded-xl border border-border bg-card/60 p-8 md:p-10 backdrop-blur-sm">
+          <h2 className="text-2xl md:text-3xl text-[color:var(--color-gold)] mb-3">
+            Web Utility Suite
+          </h2>
           <p className="text-base md:text-lg leading-relaxed text-muted-foreground">
             From the versatile capabilities of{" "}
             <Link to="/friday-canvas">FRIDAY Canvas</Link>, our flagship
             productivity hub, to the sophisticated link management of{" "}
-            <Link to="/lnklokr">LnkLokr</Link>, we are dedicated to building a
-            cohesive ecosystem that works as hard as you do. Whether you are
-            scaling a business or organizing your digital world, Skyland Reach
-            provides the secure, innovative, and intuitive foundations you need
-            to reach your next summit.
+            <Link to="/lnklokr">LnkLokr</Link>, we provide high-reliability tools
+            engineered for speed and clean focus. Whether you are scaling a
+            business or streamlining your daily routine, Skyland Reach gives you
+            the secure, intuitive foundation to reach your next summit.
           </p>
         </div>
       </section>
