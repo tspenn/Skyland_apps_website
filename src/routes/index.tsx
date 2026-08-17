@@ -257,12 +257,14 @@ function Index() {
               className="group block rounded-xl border border-border bg-card/60 p-6 hover:border-[color:var(--color-gold)]/60 hover:no-underline transition-colors"
             >
               {app.image && (
-                <div className="-mx-6 -mt-6 mb-5 h-36 md:h-44 overflow-hidden rounded-t-xl">
-                  <img
-                    src={app.image}
-                    alt=""
-                    className="w-full h-full object-cover object-center"
-                  />
+                <div className="-mx-6 -mt-6 mb-5 overflow-hidden rounded-t-xl bg-black">
+                  <div className="aspect-[3/2] flex items-center justify-center p-4 md:p-5">
+                    <img
+                      src={app.image}
+                      alt=""
+                      className="max-h-full max-w-full w-auto h-auto object-contain"
+                    />
+                  </div>
                 </div>
               )}
               <div className="flex items-center justify-between gap-3 mb-2">
