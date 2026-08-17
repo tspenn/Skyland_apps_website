@@ -3,14 +3,14 @@ import { MarkdownPage } from "@/components/markdown-page";
 import content from "@/content/mnybusiness.md?raw";
 
 const description =
-  "Cash-flow clarity for freelancers, side-hustles, and small businesses.";
+  "Live available-to-spend across operating accounts, division budgets, credit lines, and upcoming bills or payroll.";
 
 export const Route = createFileRoute("/mnybusiness")({
   head: () => ({
     meta: [
-      { title: "My$ — Business — Skyland Suite" },
+      { title: "MNY$ — Skyland Suite" },
       { name: "description", content: description },
-      { property: "og:title", content: "My$ — Business — Skyland Suite" },
+      { property: "og:title", content: "MNY$ — Skyland Suite" },
       { property: "og:description", content: description },
       { property: "og:image", content: "/mny-business-hero.png" },
     ],
@@ -25,7 +25,7 @@ function Page() {
         <div className="relative w-full overflow-hidden rounded-lg border border-border/60">
           <img
             src="/mny-business-hero.png"
-            alt="My$ — Business"
+            alt="MNY$"
             className="w-full h-auto block"
           />
         </div>

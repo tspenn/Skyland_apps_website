@@ -40,8 +40,8 @@ Assign. Track. Confirm. A work-order tracker for families, coaches, and small cr
 ### [My$](/mny)
 One button. One answer. Know exactly what you can spend today, before your next paycheck. — [my-mny.com](https://my-mny.com/)
 
-### [My$ — Business](/mnybusiness)
-The same clarity for freelancers, side-hustles and small businesses.
+### [MNY$](/mnybusiness)
+Live available-to-spend across operating accounts, division budgets, credit lines, and upcoming bills or payroll. Built for founders and operators who need the real number now — not a month-end P&L.
 
 ### [My Secret Agent](/my-secret-agent)
 Your own covert operative — watches prices, stocks, weather, and websites and texts you the moment things change.

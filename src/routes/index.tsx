@@ -96,11 +96,11 @@ const apps: App[] = [
   },
   {
     to: "/mnybusiness",
-    name: "My$ — Business",
-    tag: "for small business",
+    name: "MNY$",
+    tag: "business cash flow",
     status: "In Development",
     blurb:
-      "The same clarity as My$, tuned for freelancers, side hustles, and small businesses.",
+      "Live available-to-spend across operating accounts, division budgets, credit lines, and upcoming bills or payroll. Built for founders and operators who need the real number now — not a month-end P&L.",
     image: "/mny-business-hero.png",
   },
   {
