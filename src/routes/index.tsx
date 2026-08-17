@@ -135,8 +135,15 @@ const statusStyles: Record<App["status"], string> = {
 function Index() {
   return (
     <main>
+      <div className="relative w-full overflow-hidden border-b border-border/40">
+        <img
+          src="/skyland-header-sun.png"
+          alt=""
+          className="w-full h-[11rem] sm:h-[14rem] md:h-[18rem] object-cover object-bottom"
+        />
+      </div>
       {/* Hero */}
-      <section className="container-narrow pt-16 md:pt-24 pb-12 text-center">
+      <section className="container-narrow pt-10 md:pt-14 pb-12 text-center">
         <p className="uppercase tracking-[0.3em] text-xs text-[color:var(--color-gold)] mb-4">
           Skyland Reach — Tech Division
         </p>
