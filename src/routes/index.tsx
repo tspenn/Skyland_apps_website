@@ -70,6 +70,7 @@ const apps: App[] = [
     status: "Available",
     blurb:
       "TOC is the executive command layer for leaders who need clear ownership — issue a Directive, attach what matters, assign your team, confirm it’s done.",
+    image: "/toc-hero.png",
     external: "https://mytoc.app",
   },
   {
