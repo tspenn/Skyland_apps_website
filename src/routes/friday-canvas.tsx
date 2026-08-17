@@ -3,7 +3,7 @@ import { MarkdownPage } from "@/components/markdown-page";
 import content from "@/content/friday-canvas.md?raw";
 
 const description =
-  "One workspace for thoughts, projects, and workload. Browser-native — for people with too many tabs and too many thoughts.";
+  "For creators, founders, and busy minds who need a way to contain it all. FRIDAY Canvas brings every project into focus—giving you a total snapshot of what’s done, in progress, and next.";
 
 export const Route = createFileRoute("/friday-canvas")({
   head: () => ({

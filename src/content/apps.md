@@ -7,7 +7,7 @@ A growing family of everyday tools from **Skyland Reach — Tech Division**. Eac
 ## Available Now
 
 ### [FRIDAY Canvas](/friday-canvas)
-One workspace for thoughts, projects, and workload. Browser-native — for people with too many tabs and too many thoughts. — [fridaycanvas.com](https://www.fridaycanvas.com/) · more at [Get Friday's Help](https://getfridayshelp.com/)
+For creators, founders, and busy minds who need a way to contain it all. FRIDAY Canvas brings every project into focus—giving you a total snapshot of what’s done, in progress, and next. — [fridaycanvas.com](https://www.fridaycanvas.com/) · more at [Get Friday's Help](https://getfridayshelp.com/)
 
 ### [LnkLokr](/lnklokr)
 Your personal content vault — copy a link, image, or scrap of text, then tap a category. Keep what you need, Borrow what’s temporary, Share what you send, or Bury it behind a PIN. No sign-up. It stays on your device. — [lnklokr.com](https://lnklokr.com/)
