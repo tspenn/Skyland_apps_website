@@ -80,6 +80,7 @@ const apps: App[] = [
     status: "In Development",
     blurb:
       "One button, one answer. Know exactly what you can spend right now — before your next paycheck.",
+    image: "/mny-hero.png",
     external: "https://my-mny.com/",
   },
   {
@@ -89,6 +90,7 @@ const apps: App[] = [
     status: "In Development",
     blurb:
       "The same clarity as My$, tuned for freelancers, side hustles, and small businesses.",
+    image: "/mny-business-hero.png",
   },
   {
     to: "/go-shop",
