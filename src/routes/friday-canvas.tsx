@@ -25,7 +25,7 @@ function Page() {
         <div className="relative w-full overflow-hidden rounded-lg border border-border/60">
           <img
             src="/friday-canvas-hero.png"
-            alt="FRIDAY Canvas — your AI-powered personal workspace"
+            alt="FRIDAY Canvas"
             className="w-full h-auto block"
           />
         </div>

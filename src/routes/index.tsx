@@ -42,6 +42,7 @@ const apps: App[] = [
     status: "Available",
     blurb:
       "The AI-powered work desk for modern business — WorkZones, outbound SMS, and deep tab intelligence.",
+    image: "/friday-desk-hero.png",
   },
   {
     to: "/lnklokr",
