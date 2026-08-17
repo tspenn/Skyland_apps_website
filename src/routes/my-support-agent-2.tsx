@@ -3,7 +3,7 @@ import { MarkdownPage } from "@/components/markdown-page";
 import content from "@/content/my-support-agent-2.md?raw";
 
 const description =
-  "On every email: a reply suggestion you can copy and insert, plus how to resolve the issue — trained on your business.";
+  "Point a dedicated inbox — support, sales, or questions — into My Support Agent. Suggestions you can copy in, plus how to resolve the issue, trained on your business.";
 
 export const Route = createFileRoute("/my-support-agent-2")({
   head: () => ({

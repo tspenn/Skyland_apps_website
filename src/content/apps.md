@@ -13,7 +13,7 @@ One workspace for thoughts, projects, and workload. Browser-native — for peopl
 Secure, intelligent link and clipboard management. Keep, Borrow, Share, or Bury — everything stays on your device. — [lnklokr.com](https://lnklokr.com/)
 
 ### [My Support Agent](/my-support-agent-2)
-On every email: a reply suggestion you can copy and insert — not a drafted message — plus how to resolve the issue. You train it to know your business. — [my-support-agent.com](https://www.my-support-agent.com/)
+Give it a dedicated inbox — support, sales, questions, whatever you run. Every message lands here. On each one: a reply suggestion you can copy and insert — not a drafted email — plus how to resolve the issue. You train it to know your business. — [my-support-agent.com](https://www.my-support-agent.com/)
 
 ### [TOC — Tactical Operations Command](/my-toc)
 Issue a Directive, attach what matters, assign your team, confirm it’s done. Clear ownership. Instant status. — [MyTOC.app](https://mytoc.app)

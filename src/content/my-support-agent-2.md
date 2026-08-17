@@ -8,7 +8,7 @@ You reply to some. You forget others. A customer follows up three times before y
 
 #### My Support Agent fixes that.
 
-Forward your support email once. Every message becomes a case in your Command Center — organized, threaded, and ready to act on. No more searching. No more missed requests. No more customers wondering if anyone heard them.
+Forward from a dedicated address once — support, sales, questions, whatever you choose to run. That inbox is yours to set up. Every message becomes a case in your Command Center — organized, threaded, and ready to act on. No more searching. No more missed requests. No more customers wondering if anyone heard them.
 
 And when a case arrives, your AI support agent has already read it and offered a suggestion: a reply you can copy and insert, and how to resolve the issue — not a drafted email. You train it to know your business.
 
@@ -16,7 +16,7 @@ And when a case arrives, your AI support agent has already read it and offered a
 
 #### Smart Features, Zero Setup
 
-One Forwarding Rule: Point your existing support email at My Support Agent. Your customers keep emailing the same address they always have. Nothing changes for them.
+One dedicated address: Point a separate inbox at My Support Agent — support, sales, questions, or any mailbox you want handled. Setting up that address is on you. Customers keep emailing the same place. Nothing changes for them. Everything that lands there is fed straight in, so the Agent sees it, knows the thread, and can help.
 
 AI Suggested Fixes: Every case arrives with a 2-3 sentence suggested response or fix, written by Claude. Your business profile teaches it your industry, your tone, and your common issues.
 
@@ -30,9 +30,9 @@ Work Notes: Log what you did, what you found, what needs follow-up — right al
 
 #### It’s Not Magic — It’s Organization
 
-My Support Agent connects to your email through a simple forwarding rule — no passwords, no plugins, no integrations to maintain. You tell your email provider to send a copy to your My Support Agent address. That’s it.
+My Support Agent connects through a simple forwarding rule — no passwords, no plugins, no integrations to maintain. You stand up a dedicated address (support, sales, questions — your call) and tell your email provider to send those messages to your My Support Agent address. That’s it.
 
-From there, every inbound message becomes a case. The AI reads it, formulates a complete reply to the sender, and then suggests a fix for you or your team — and your Command Center keeps it organized until you mark it resolved. All responded to. All fixed. No more falling through the cracks.
+From there, every inbound message becomes a case. The Agent reads it and offers a suggestion: a reply you can copy and insert, and how to resolve the issue — not a drafted email. Your Command Center keeps it organized until you mark it resolved. All seen. All helped. No more falling through the cracks.
 
 ---
 
