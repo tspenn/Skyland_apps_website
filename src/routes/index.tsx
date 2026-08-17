@@ -41,7 +41,7 @@ const apps: App[] = [
     tag: "Business tier of FRIDAY Canvas",
     status: "Available",
     blurb:
-      "The AI-powered work desk for modern business — WorkZones, outbound SMS, and deep tab intelligence.",
+      "Built for leaders, managers, and growing teams who need total operational clarity. FRIDAY Desk centralizes workflows, keeps active projects visible, and aligns everyone without status-meeting bloat.",
     image: "/friday-desk-hero.png",
   },
   {

@@ -19,7 +19,7 @@ With a dedicated inbox for support, sales, or questions, your agent meets every 
 Issue a Directive, attach what matters, assign your team, confirm it’s done. Clear ownership. Instant status. — [MyTOC.app](https://mytoc.app)
 
 ### [FRIDAY Desk](/desk)
-The AI-powered work desk for modern business — the enterprise tier of FRIDAY Canvas.
+Built for leaders, managers, and growing teams who need total operational clarity. FRIDAY Desk centralizes workflows, keeps active projects visible, and aligns everyone without status-meeting bloat.
 
 ---
 ### [Go Shop!](/go-shop)

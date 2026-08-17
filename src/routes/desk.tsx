@@ -2,7 +2,8 @@ import { createFileRoute } from "@tanstack/react-router";
 import { MarkdownPage } from "@/components/markdown-page";
 import content from "@/content/desk.md?raw";
 
-const description = "The AI-powered work desk for modern business.";
+const description =
+  "Built for leaders, managers, and growing teams who need total operational clarity. FRIDAY Desk centralizes workflows, keeps active projects visible, and aligns everyone without status-meeting bloat.";
 
 export const Route = createFileRoute("/desk")({
   head: () => ({
