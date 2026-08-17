@@ -80,7 +80,7 @@ const apps: App[] = [
     tag: "mytoc.app",
     status: "Available",
     blurb:
-      "TOC is the executive command layer for leaders who need clear ownership — issue a Directive, attach what matters, assign your team, confirm it’s done.",
+      "TOC puts every major Directive for your leadership team in your hand. Open one, attach the brief, name the owner, watch what's current, close it yourself. This is command for COOs and chiefs of staff — the whole board, not a chat scroll, wherever you are.",
     image: "/toc-hero.png",
     external: "https://mytoc.app",
   },

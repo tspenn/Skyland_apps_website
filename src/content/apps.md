@@ -19,7 +19,7 @@ With a dedicated inbox for support, sales, or questions, your agent meets every 
 Private messaging for the people and files you actually care about. A locked space for families, small teams, and businesses — not Gmail, not Outlook, other operating systems and not the open internet. Invitees never get a bill. Start free - Stay free - unless you need more. — [my-lokr.com](https://my-lokr.com)
 
 ### [TOC — Tactical Operations Command](/my-toc)
-Issue a Directive, attach what matters, assign your team, confirm it’s done. Clear ownership. Instant status. — [MyTOC.app](https://mytoc.app)
+TOC puts every major Directive for your leadership team in your hand. Open one, attach the brief, name the owner, watch what's current, close it yourself. This is command for COOs and chiefs of staff — the whole board, not a chat scroll, wherever you are. — [MyTOC.app](https://mytoc.app)
 
 ### [FRIDAY Desk](/desk)
 Built for leaders, managers, and growing teams who need total operational clarity. FRIDAY Desk centralizes workflows, keeps active projects visible, and aligns everyone without status-meeting bloat.
