@@ -50,7 +50,7 @@ const apps: App[] = [
     tag: "lnklokr.com",
     status: "Available",
     blurb:
-      "Secure, intelligent link and clipboard management. Keep, Borrow, Share, or Bury — your data stays on your device.",
+      "Your personal content vault — copy a link, image, or scrap of text, then tap a category. Keep what you need, Borrow what’s temporary, Share what you send, or Bury it behind a PIN. No sign-up. It stays on your device.",
     image: "/lnklokr-hero.png",
     external: "https://lnklokr.com/",
   },

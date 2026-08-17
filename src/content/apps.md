@@ -10,7 +10,7 @@ A growing family of everyday tools from **Skyland Reach — Tech Division**. Eac
 One workspace for thoughts, projects, and workload. Browser-native — for people with too many tabs and too many thoughts. — [fridaycanvas.com](https://www.fridaycanvas.com/) · more at [Get Friday's Help](https://getfridayshelp.com/)
 
 ### [LnkLokr](/lnklokr)
-Secure, intelligent link and clipboard management. Keep, Borrow, Share, or Bury — everything stays on your device. — [lnklokr.com](https://lnklokr.com/)
+Your personal content vault — copy a link, image, or scrap of text, then tap a category. Keep what you need, Borrow what’s temporary, Share what you send, or Bury it behind a PIN. No sign-up. It stays on your device. — [lnklokr.com](https://lnklokr.com/)
 
 ### [My Support Agent](/my-support-agent-2)
 Give it a dedicated inbox — support, sales, questions, whatever you run. Every message lands here. On each one: a reply suggestion you can copy and insert — not a drafted email — plus how to resolve the issue. You train it to know your business. — [my-support-agent.com](https://www.my-support-agent.com/)
