@@ -12,6 +12,7 @@ import { Route as rootRouteImport } from './routes/__root'
 import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
 import { Route as MyTocRouteImport } from './routes/my-toc'
 import { Route as MySupportAgent2RouteImport } from './routes/my-support-agent-2'
+import { Route as MyLokrRouteImport } from './routes/my-lokr'
 import { Route as MySecretAgentRouteImport } from './routes/my-secret-agent'
 import { Route as MnybusinessRouteImport } from './routes/mnybusiness'
 import { Route as MnyRouteImport } from './routes/mny'
@@ -39,6 +40,11 @@ const MyTocRoute = MyTocRouteImport.update({
 const MySupportAgent2Route = MySupportAgent2RouteImport.update({
   id: '/my-support-agent-2',
   path: '/my-support-agent-2',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const MyLokrRoute = MyLokrRouteImport.update({
+  id: '/my-lokr',
+  path: '/my-lokr',
   getParentRoute: () => rootRouteImport,
 } as any)
 const MySecretAgentRoute = MySecretAgentRouteImport.update({
@@ -121,6 +127,7 @@ export interface FileRoutesByFullPath {
   '/mny': typeof MnyRoute
   '/mnybusiness': typeof MnybusinessRoute
   '/my-secret-agent': typeof MySecretAgentRoute
+  '/my-lokr': typeof MyLokrRoute
   '/my-support-agent-2': typeof MySupportAgent2Route
   '/my-toc': typeof MyTocRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
@@ -138,6 +145,7 @@ export interface FileRoutesByTo {
   '/lnklokr': typeof LnklokrRoute
   '/mny': typeof MnyRoute
   '/mnybusiness': typeof MnybusinessRoute
+  '/my-lokr': typeof MyLokrRoute
   '/my-secret-agent': typeof MySecretAgentRoute
   '/my-support-agent-2': typeof MySupportAgent2Route
   '/my-toc': typeof MyTocRoute
@@ -157,6 +165,7 @@ export interface FileRoutesById {
   '/lnklokr': typeof LnklokrRoute
   '/mny': typeof MnyRoute
   '/mnybusiness': typeof MnybusinessRoute
+  '/my-lokr': typeof MyLokrRoute
   '/my-secret-agent': typeof MySecretAgentRoute
   '/my-support-agent-2': typeof MySupportAgent2Route
   '/my-toc': typeof MyTocRoute
@@ -177,6 +186,7 @@ export interface FileRouteTypes {
     | '/lnklokr'
     | '/mny'
     | '/mnybusiness'
+    | '/my-lokr'
     | '/my-secret-agent'
     | '/my-support-agent-2'
     | '/my-toc'
@@ -195,6 +205,7 @@ export interface FileRouteTypes {
     | '/lnklokr'
     | '/mny'
     | '/mnybusiness'
+    | '/my-lokr'
     | '/my-secret-agent'
     | '/my-support-agent-2'
     | '/my-toc'
@@ -213,6 +224,7 @@ export interface FileRouteTypes {
     | '/lnklokr'
     | '/mny'
     | '/mnybusiness'
+    | '/my-lokr'
     | '/my-secret-agent'
     | '/my-support-agent-2'
     | '/my-toc'
@@ -232,6 +244,7 @@ export interface RootRouteChildren {
   LnklokrRoute: typeof LnklokrRoute
   MnyRoute: typeof MnyRoute
   MnybusinessRoute: typeof MnybusinessRoute
+  MyLokrRoute: typeof MyLokrRoute
   MySecretAgentRoute: typeof MySecretAgentRoute
   MySupportAgent2Route: typeof MySupportAgent2Route
   MyTocRoute: typeof MyTocRoute
@@ -259,6 +272,13 @@ declare module '@tanstack/react-router' {
       path: '/my-support-agent-2'
       fullPath: '/my-support-agent-2'
       preLoaderRoute: typeof MySupportAgent2RouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/my-lokr': {
+      id: '/my-lokr'
+      path: '/my-lokr'
+      fullPath: '/my-lokr'
+      preLoaderRoute: typeof MyLokrRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/my-secret-agent': {
@@ -368,6 +388,7 @@ const rootRouteChildren: RootRouteChildren = {
   LnklokrRoute: LnklokrRoute,
   MnyRoute: MnyRoute,
   MnybusinessRoute: MnybusinessRoute,
+  MyLokrRoute: MyLokrRoute,
   MySecretAgentRoute: MySecretAgentRoute,
   MySupportAgent2Route: MySupportAgent2Route,
   MyTocRoute: MyTocRoute,

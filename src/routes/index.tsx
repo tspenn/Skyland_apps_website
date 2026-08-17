@@ -65,6 +65,16 @@ const apps: App[] = [
     external: "https://www.my-support-agent.com/",
   },
   {
+    to: "/my-lokr",
+    name: "My Lokr",
+    tag: "my-lokr.com",
+    status: "Available",
+    blurb:
+      "Private messaging for the people and files you actually care about. A locked space for families, small teams, and businesses — not Gmail, not Outlook, other operating systems and not the open internet. Invitees never get a bill. Start free - Stay free - unless you need more.",
+    image: "/my-lokr-hero.png",
+    external: "https://my-lokr.com",
+  },
+  {
     to: "/my-toc",
     name: "TOC",
     tag: "mytoc.app",
@@ -206,9 +216,7 @@ function Index() {
             software. Even though these utilities live right in your browser or on
             your home screen, your data remains strictly yours. Whether it is your
             workflows, saved links, or private messages and conversations in{" "}
-            <a href="https://my-lokr.com" target="_blank" rel="noopener noreferrer">
-              My-lokr.com
-            </a>
+            <Link to="/my-lokr">My Lokr</Link>
             , everything is safeguarded with gold-standard Supabase encryption.
           </p>
         </div>
