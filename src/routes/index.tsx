@@ -74,6 +74,16 @@ const apps: App[] = [
     external: "https://mytoc.app",
   },
   {
+    to: "/chkchk",
+    name: "ChkChk",
+    tag: "chkchk.app",
+    status: "Available",
+    blurb:
+      "Assign. Track. Confirm. A work-order tracker for families, coaches, and small crews — the Lead assigns the job, the team works the list, and nothing is done until the Lead signs off.",
+    image: "/chkchk-hero.png",
+    external: "https://www.chkchk.app/",
+  },
+  {
     to: "/mny",
     name: "My$",
     tag: "my-mny.com",

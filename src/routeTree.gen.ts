@@ -23,6 +23,7 @@ import { Route as GetSupportRouteImport } from './routes/get-support'
 import { Route as FridayCanvasRouteImport } from './routes/friday-canvas'
 import { Route as DeskRouteImport } from './routes/desk'
 import { Route as AppsRouteImport } from './routes/apps'
+import { Route as ChkchkRouteImport } from './routes/chkchk'
 import { Route as IndexRouteImport } from './routes/index'
 
 const SitemapDotxmlRoute = SitemapDotxmlRouteImport.update({
@@ -95,6 +96,11 @@ const AppsRoute = AppsRouteImport.update({
   path: '/apps',
   getParentRoute: () => rootRouteImport,
 } as any)
+const ChkchkRoute = ChkchkRouteImport.update({
+  id: '/chkchk',
+  path: '/chkchk',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
@@ -104,6 +110,7 @@ const IndexRoute = IndexRouteImport.update({
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/apps': typeof AppsRoute
+  '/chkchk': typeof ChkchkRoute
   '/desk': typeof DeskRoute
   '/friday-canvas': typeof FridayCanvasRoute
   '/get-support': typeof GetSupportRoute
@@ -121,6 +128,7 @@ export interface FileRoutesByFullPath {
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/apps': typeof AppsRoute
+  '/chkchk': typeof ChkchkRoute
   '/desk': typeof DeskRoute
   '/friday-canvas': typeof FridayCanvasRoute
   '/get-support': typeof GetSupportRoute
@@ -139,6 +147,7 @@ export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/apps': typeof AppsRoute
+  '/chkchk': typeof ChkchkRoute
   '/desk': typeof DeskRoute
   '/friday-canvas': typeof FridayCanvasRoute
   '/get-support': typeof GetSupportRoute
@@ -158,6 +167,7 @@ export interface FileRouteTypes {
   fullPaths:
     | '/'
     | '/apps'
+    | '/chkchk'
     | '/desk'
     | '/friday-canvas'
     | '/get-support'
@@ -175,6 +185,7 @@ export interface FileRouteTypes {
   to:
     | '/'
     | '/apps'
+    | '/chkchk'
     | '/desk'
     | '/friday-canvas'
     | '/get-support'
@@ -192,6 +203,7 @@ export interface FileRouteTypes {
     | '__root__'
     | '/'
     | '/apps'
+    | '/chkchk'
     | '/desk'
     | '/friday-canvas'
     | '/get-support'
@@ -210,6 +222,7 @@ export interface FileRouteTypes {
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   AppsRoute: typeof AppsRoute
+  ChkchkRoute: typeof ChkchkRoute
   DeskRoute: typeof DeskRoute
   FridayCanvasRoute: typeof FridayCanvasRoute
   GetSupportRoute: typeof GetSupportRoute
@@ -325,6 +338,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof AppsRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/chkchk': {
+      id: '/chkchk'
+      path: '/chkchk'
+      fullPath: '/chkchk'
+      preLoaderRoute: typeof ChkchkRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/': {
       id: '/'
       path: '/'
@@ -338,6 +358,7 @@ declare module '@tanstack/react-router' {
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   AppsRoute: AppsRoute,
+  ChkchkRoute: ChkchkRoute,
   DeskRoute: DeskRoute,
   FridayCanvasRoute: FridayCanvasRoute,
   GetSupportRoute: GetSupportRoute,
