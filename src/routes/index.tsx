@@ -80,7 +80,7 @@ const apps: App[] = [
     tag: "mytoc.app",
     status: "Available",
     blurb:
-      "TOC puts every major Directive for your leadership team in your hand. Open one, attach the brief, name the owner, watch what's current, close it yourself. This is command for COOs and chiefs of staff — the whole board, not a chat scroll, wherever you are.",
+      "TOC puts every major Directive for your leadership team in your hand. Open one, attach the brief, name the owner, watch what's current, close it yourself. This is command for COOs and chiefs of staff — the whole board, not a chat scroll, wherever you are. Directives hold the brief, the files, the owner, and the close — with Supabase encryption. You run the priorities that move the team — from your phone — without turning them into another chat thread. 14-day trial, no credit card.",
     image: "/toc-hero.png",
     external: "https://mytoc.app",
   },
