@@ -249,12 +249,12 @@ function Index() {
             See all →
           </Link>
         </div>
-        <div className="grid gap-5 md:grid-cols-2">
+        <div className="grid gap-8 md:gap-10 md:grid-cols-2">
           {apps.map((app) => (
             <Link
               key={app.to}
               to={app.to}
-              className="group block rounded-xl border border-border bg-card/60 p-6 hover:border-[color:var(--color-gold)]/60 hover:no-underline transition-colors"
+              className="group block rounded-xl border border-white/15 bg-card p-6 shadow-[0_12px_40px_rgba(0,0,0,0.35)] hover:border-[color:var(--color-gold)]/50 hover:no-underline transition-colors"
             >
               {app.image && (
                 <div className="-mx-6 -mt-6 mb-5 overflow-hidden rounded-t-xl bg-black p-3">
