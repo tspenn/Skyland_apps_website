@@ -164,12 +164,6 @@ function Index() {
           >
             Browse the suite
           </Link>
-          <Link
-            to="/friday-canvas"
-            className="inline-flex items-center rounded-md border border-border px-5 py-2.5 text-sm font-medium text-foreground hover:no-underline hover:border-[color:var(--color-gold)] transition"
-          >
-            Meet FRIDAY Canvas
-          </Link>
         </div>
       </section>
 
