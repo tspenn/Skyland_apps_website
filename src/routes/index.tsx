@@ -74,16 +74,6 @@ const apps: App[] = [
     external: "https://mytoc.app",
   },
   {
-    to: "/chkchk",
-    name: "ChkChk",
-    tag: "chkchk.app",
-    status: "Available",
-    blurb:
-      "Assign. Track. Confirm. A work-order tracker for families, coaches, and small crews — the Lead assigns the job, the team works the list, and nothing is done until the Lead signs off.",
-    image: "/chkchk-hero.png",
-    external: "https://www.chkchk.app/",
-  },
-  {
     to: "/mny",
     name: "My$",
     tag: "my-mny.com",
@@ -121,6 +111,16 @@ const apps: App[] = [
       "Keeping tabs on all the things that matter. A web-based news companion — light, fast, and ready on all your devices. World, Africa, faith, geopolitics, sports, fashion, lifestyle, and tech. No store. No bloat.",
     image: "/go-news-hero.png",
     external: "https://go-news.app/",
+  },
+  {
+    to: "/chkchk",
+    name: "ChkChk",
+    tag: "chkchk.app",
+    status: "Available",
+    blurb:
+      "Assign. Track. Confirm. A work-order tracker for families, coaches, and small crews — the Lead assigns the job, the team works the list, and nothing is done until the Lead signs off.",
+    image: "/chkchk-hero.png",
+    external: "https://www.chkchk.app/",
   },
   {
     to: "/my-secret-agent",

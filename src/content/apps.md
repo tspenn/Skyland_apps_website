@@ -18,9 +18,6 @@ Turn your inbox into an organized support desk with AI-drafted replies. — [my-
 ### [TOC — Tactical Operations Command](/my-toc)
 Issue a Directive, attach what matters, assign your team, confirm it’s done. Clear ownership. Instant status. — [MyTOC.app](https://mytoc.app)
 
-### [ChkChk](/chkchk)
-Assign. Track. Confirm. A work-order tracker for families, coaches, and small crews. The Lead assigns the job, the team works the list, and nothing is done until the Lead signs off. — [chkchk.app](https://www.chkchk.app/)
-
 ### [FRIDAY Desk](/desk)
 The AI-powered work desk for modern business — the enterprise tier of FRIDAY Canvas.
 
@@ -30,6 +27,9 @@ A web-based shopping companion — private, secure, and it will not bloat the de
 
 ### [Go News](/go-news-app)
 Keeping tabs on all the things that matter. A web-based news companion — light, fast, and ready on all your devices. World, Africa, faith, geopolitics, sports, fashion, lifestyle, and tech. — [go-news.app](https://go-news.app/)
+
+### [ChkChk](/chkchk)
+Assign. Track. Confirm. A work-order tracker for families, coaches, and small crews. The Lead assigns the job, the team works the list, and nothing is done until the Lead signs off. — [chkchk.app](https://www.chkchk.app/)
 
 
 ## In Development
