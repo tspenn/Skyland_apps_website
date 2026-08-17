@@ -13,7 +13,7 @@ One workspace for thoughts, projects, and workload. Browser-native — for peopl
 Your personal content vault — copy a link, image, or scrap of text, then tap a category. Keep what you need, Borrow what’s temporary, Share what you send, or Bury it behind a PIN. No sign-up. It stays on your device. — [lnklokr.com](https://lnklokr.com/)
 
 ### [My Support Agent](/my-support-agent-2)
-With a dedicated inbox for support, sales, or questions; your agent meets every message with wording you can paste into your own reply, plus how to resolve it. You train it to know your business. — [my-support-agent.com](https://www.my-support-agent.com/)
+With a dedicated inbox for support, sales, or questions, your agent meets every message with wording you can paste into your own reply, plus how to resolve it. You train it to know your business. — [my-support-agent.com](https://www.my-support-agent.com/)
 
 ### [TOC — Tactical Operations Command](/my-toc)
 Issue a Directive, attach what matters, assign your team, confirm it’s done. Clear ownership. Instant status. — [MyTOC.app](https://mytoc.app)

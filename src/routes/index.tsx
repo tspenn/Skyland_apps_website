@@ -60,7 +60,7 @@ const apps: App[] = [
     tag: "my-support-agent.com",
     status: "Available",
     blurb:
-      "With a dedicated inbox for support, sales, or questions; your agent meets every message with wording you can paste into your own reply, plus how to resolve it. You train it to know your business.",
+      "With a dedicated inbox for support, sales, or questions, your agent meets every message with wording you can paste into your own reply, plus how to resolve it. You train it to know your business.",
     image: "/my-support-agent-hero.png",
     external: "https://www.my-support-agent.com/",
   },
@@ -257,16 +257,16 @@ function Index() {
               className="group block rounded-xl border border-border bg-card/60 p-6 hover:border-[color:var(--color-gold)]/60 hover:no-underline transition-colors"
             >
               {app.image && (
-                <div className="-mx-6 -mt-6 mb-4 overflow-hidden rounded-t-xl">
+                <div className="-mx-6 -mt-6 mb-5 h-36 md:h-44 overflow-hidden rounded-t-xl">
                   <img
                     src={app.image}
                     alt=""
-                    className="w-full h-auto block"
+                    className="w-full h-full object-cover object-center"
                   />
                 </div>
               )}
               <div className="flex items-center justify-between gap-3 mb-2">
-                <h3 className="text-xl text-foreground group-hover:text-[color:var(--color-gold)] transition-colors">
+                <h3 className="text-2xl text-foreground group-hover:text-[color:var(--color-gold)] transition-colors">
                   {app.name}
                 </h3>
                 <span
@@ -275,8 +275,8 @@ function Index() {
                   {app.status}
                 </span>
               </div>
-              <div className="text-xs text-muted-foreground mb-3">{app.tag}</div>
-              <p className="text-sm text-muted-foreground leading-relaxed">
+              <div className="text-sm text-muted-foreground mb-3">{app.tag}</div>
+              <p className="text-base md:text-lg text-foreground/90 leading-relaxed">
                 {app.blurb}
               </p>
             </Link>
