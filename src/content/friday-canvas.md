@@ -8,7 +8,7 @@ One workspace for your thoughts, projects, and workload — browser-native, at y
 
 ---
 
-FRIDAY Canvas is a private workspace for what you think, what you are doing, and what is next. Each project gets its own WorkZone. Notes, files, images, lists, and links stay with the work. FRIDAY sits beside you to sort it and show you how — or you can shut the office door and work without the assistant.
+FRIDAY Canvas is a private workspace for what you think, what you are doing, and what is next. Each project gets its own WorkZone. Notes, files, images, lists, and links stay with the work. Your AI Assistant FRIDAY sits beside you to sort it and show you how — or you can shut the office door and work without the assistant. (Just turn it off.)
 
 It is web based on purpose. Open it in the browser. Add it to your home screen. Same workspace on your phone, tablet, and laptop. No store listing. No bloat.
 
