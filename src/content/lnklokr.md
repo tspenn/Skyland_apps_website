@@ -1,8 +1,5 @@
 # LnkLokr
 
-
-![](https://skylandapps.com/wp-content/uploads/2026/06/Header-LnkLokr.jpg)
-
 ## What is LnkLokr?
 
 LnkLokr is your personal content vault. Quickly save links, images, and text from your clipboard into organized categories. No sign-up required, everything stays on your device.
@@ -80,8 +77,6 @@ Your data — whether kept, borrowed, shared, or buried — is **your data**. W
 All Skyland Suite tools are cloud-based, so they won’t bloat your phone or slow it down. There’s no heavy download required—just add it straight to your home screen for easy access. It works across all your devices, whether you’re on Android, iOS, or a laptop. Best of all? All data about your sign in and use is stored on Supabase servers, using top industry standards to keep your privacy locked down.
 
 ---
-
-![](https://skylandapps.com/wp-content/uploads/2026/06/Header-LnkLokr.jpg)
 
 ## [Lnklokr](https://lnklokr.com/)
 

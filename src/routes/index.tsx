@@ -51,6 +51,7 @@ const apps: App[] = [
     status: "Available",
     blurb:
       "Secure, intelligent link and clipboard management. Keep, Borrow, Share, or Bury — your data stays on your device.",
+    image: "/lnklokr-hero.png",
     external: "https://lnklokr.com/",
   },
   {

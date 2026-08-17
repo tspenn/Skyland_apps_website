@@ -2,18 +2,34 @@ import { createFileRoute } from "@tanstack/react-router";
 import { MarkdownPage } from "@/components/markdown-page";
 import content from "@/content/lnklokr.md?raw";
 
+const description = "Secure, intelligent link and clipboard management.";
+
 export const Route = createFileRoute("/lnklokr")({
   head: () => ({
     meta: [
       { title: "LnkLokr — Skyland Suite" },
-      { name: "description", content: "Secure, intelligent link and clipboard management." },
+      { name: "description", content: description },
       { property: "og:title", content: "LnkLokr — Skyland Suite" },
-      { property: "og:description", content: "Secure, intelligent link and clipboard management." },
+      { property: "og:description", content: description },
+      { property: "og:image", content: "/lnklokr-hero.png" },
     ],
   }),
   component: Page,
 });
 
 function Page() {
-  return <MarkdownPage content={content} />;
+  return (
+    <>
+      <div className="container-narrow pt-12 md:pt-16">
+        <div className="relative w-full overflow-hidden rounded-lg border border-border/60">
+          <img
+            src="/lnklokr-hero.png"
+            alt="LnkLokr"
+            className="w-full h-auto block"
+          />
+        </div>
+      </div>
+      <MarkdownPage content={content} />
+    </>
+  );
 }
