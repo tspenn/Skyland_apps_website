@@ -117,6 +117,7 @@ const apps: App[] = [
     status: "In Development",
     blurb:
       "Your covert operative — watches prices, stocks, weather and websites, and texts you when things change.",
+    image: "/my-secret-agent-hero.png",
   },
   {
     to: "/gia",
