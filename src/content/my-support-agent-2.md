@@ -10,7 +10,7 @@ You reply to some. You forget others. A customer follows up three times before y
 
 Forward your support email once. Every message becomes a case in your Command Center — organized, threaded, and ready to act on. No more searching. No more missed requests. No more customers wondering if anyone heard them.
 
-And when a case arrives, your AI support agent has already read it and written a suggested fix. Before you even open it.
+And when a case arrives, your AI support agent has already read it and offered a suggestion: a reply you can copy and insert, and how to resolve the issue — not a drafted email. You train it to know your business.
 
 ---
 

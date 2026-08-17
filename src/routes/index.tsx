@@ -60,7 +60,7 @@ const apps: App[] = [
     tag: "my-support-agent.com",
     status: "Available",
     blurb:
-      "Turn your inbox into an organized support desk with AI-drafted replies — no plugins, no integrations.",
+      "On every email: a reply suggestion you can copy and insert — not a drafted message — plus how to resolve the issue. You train it to know your business.",
     image: "/my-support-agent-hero.png",
     external: "https://www.my-support-agent.com/",
   },
