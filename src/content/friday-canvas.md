@@ -1,26 +1,30 @@
-# Friday Canvas
+# FRIDAY Canvas
 
+For people with too many tabs and too many thoughts.
 
-### **FRIDAY Canvas™**
+One workspace for your thoughts, projects, and workload — browser-native, at your fingertips, on all your devices.
 
-![](https://skylandapps.com/wp-content/uploads/2026/06/logo-1024-x1024.png)
+**[Start at fridaycanvas.com](https://www.fridaycanvas.com/)**
 
-*“Notion is powerful — but it was built for people who dream in spreadsheets. Setting it up takes time, patience, and a certain kind of mind. FRIDAY Canvas was built for everyone else. No databases to architect, no systems to configure, no learning curve to climb. Just open it, start a project, and your personal AI assistant is already there — reading your tabs, connecting your ideas, and surfacing what matters before you think to ask. FRIDAY Canvas is warm where Notion is cold, simple where Notion is complex, and private where Notion feels like a tool your IT department would love. If you have ever tried Notion and walked away thinking “this wasn’t built for me” — you were right. This was.”*
+---
 
-#### **Your private workspace for projects and thoughts.**
+FRIDAY Canvas is a private workspace for what you think, what you are doing, and what is next. Each project gets its own WorkZone. Notes, files, images, lists, and links stay with the work. FRIDAY sits beside you to sort it and show you how — or you can shut the office door and work without the assistant.
 
-FRIDAY Canvas™ gives you the best of both worlds: **a simple personal notebook**
+It is web based on purpose. Open it in the browser. Add it to your home screen. Same workspace on your phone, tablet, and laptop. No store listing. No bloat.
 
-Combined with **a safe, friendly AI assistant** — all in one calm, private space.
+Try FRIDAY Canvas free for 30 days. No credit card. Cancel anytime.
 
-Everything stays neatly organized **per project**, so you can find what you need with a single tap.
+---
 
-Life moves fast. Between projects, meetings, family, and endless tabs,
+## What you get
 
-It’s easy to lose track of ideas and details.
+* Capture the swirl — notes, voice, links, images, and files — before it disappears.
+* WorkZones so each project stays findable.
+* A trail of what you have done, what is next, and what you would like to do.
+* FRIDAY to summarize, suggest next steps, or stay quiet until you ask.
 
-FRIDAY Canvas helps you capture everything clearly and
+---
 
-Stay organized without the overwhelming mental load. See much more at [www.GetFridaysHelp.com!](https://getfridayshelp.com/)
+See much more about FRIDAY Canvas at **[Get Friday's Help](https://getfridayshelp.com/)**.
 
-**Try [FRIDAY Canvas](https://www.fridaycanvas.com/) Free for 7 Days. No credit card needed.**
+**[Open FRIDAY Canvas](https://www.fridaycanvas.com/)** — 30 days free. No credit card needed.

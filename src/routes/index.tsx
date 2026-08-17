@@ -31,7 +31,8 @@ const apps: App[] = [
     tag: "fridaycanvas.com",
     status: "Beta",
     blurb:
-      "Your private AI workspace for projects and thoughts. Warm where Notion is cold, simple where it is complex.",
+      "One workspace for thoughts, projects, and workload. Browser-native — for people with too many tabs and too many thoughts.",
+    image: "/friday-canvas-hero.png",
     external: "https://www.fridaycanvas.com/",
   },
   {
@@ -144,9 +145,9 @@ function Index() {
         </h1>
         <p className="mt-6 text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
           Zero-install tools that make life simple while doing the heavy
-          lifting—for your day, your work, and the teams that need clarity. A
+          lifting—for your day, your work, and teams built to move fast. A
           hub for your ideas, a vault for your links, and a smarter way to
-          operate. Simple, fast, and light on your devices.
+          operate. Browser-native, simple, and light on your devices.
         </p>
         <div className="mt-8 flex flex-wrap justify-center gap-3">
           <Link

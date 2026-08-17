@@ -7,7 +7,7 @@ A growing family of everyday tools from **Skyland Reach — Tech Division**. Eac
 ## Available Now
 
 ### [FRIDAY Canvas](/friday-canvas)
-Your private AI workspace for projects and thoughts. Warm where Notion is cold, simple where Notion is complex. — [fridaycanvas.com](https://www.fridaycanvas.com/)
+One workspace for thoughts, projects, and workload. Browser-native — for people with too many tabs and too many thoughts. — [fridaycanvas.com](https://www.fridaycanvas.com/) · more at [Get Friday's Help](https://getfridayshelp.com/)
 
 ### [LnkLokr](/lnklokr)
 Secure, intelligent link and clipboard management. Keep, Borrow, Share, or Bury — everything stays on your device. — [lnklokr.com](https://lnklokr.com/)
