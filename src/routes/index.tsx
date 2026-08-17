@@ -183,7 +183,7 @@ function Index() {
       </section>
 
       {/* Principles */}
-      <section className="container-narrow py-10 space-y-6">
+      <section className="container-narrow py-10 space-y-6 text-center">
         <div className="rounded-xl border border-border bg-card/60 p-8 md:p-10 backdrop-blur-sm">
           <h2 className="text-2xl md:text-3xl text-[color:var(--color-gold)] mb-3">
             Digital Instruments, Not Downloads
