@@ -1,8 +1,5 @@
 # My Support Agent
 
-
-![](https://skylandapps.com/wp-content/uploads/2026/06/agent-626x1024.png)
-
 ### Let me introduce you to My Support Agent (My-Support-Agent.com)
 
 Every day, support emails land in your inbox and disappear into the noise.

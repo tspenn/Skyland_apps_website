@@ -61,6 +61,7 @@ const apps: App[] = [
     status: "Available",
     blurb:
       "Turn your inbox into an organized support desk with AI-drafted replies — no plugins, no integrations.",
+    image: "/my-support-agent-hero.png",
     external: "https://www.my-support-agent.com/",
   },
   {
