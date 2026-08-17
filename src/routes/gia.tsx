@@ -9,11 +9,25 @@ export const Route = createFileRoute("/gia")({
       { name: "description", content: "Personal intelligence operations for investors and CEOs." },
       { property: "og:title", content: "GIA — Go Intelligence Agency — Skyland Suite" },
       { property: "og:description", content: "Personal intelligence operations for investors and CEOs." },
+      { property: "og:image", content: "/gia-hero.png" },
     ],
   }),
   component: Page,
 });
 
 function Page() {
-  return <MarkdownPage content={content} />;
+  return (
+    <>
+      <div className="container-narrow pt-12 md:pt-16">
+        <div className="relative w-full overflow-hidden rounded-lg border border-border/60">
+          <img
+            src="/gia-hero.png"
+            alt="GIA — Go Intelligence Agency"
+            className="w-full h-auto block"
+          />
+        </div>
+      </div>
+      <MarkdownPage content={content} />
+    </>
+  );
 }

@@ -149,6 +149,7 @@ const apps: App[] = [
     status: "In Development",
     blurb:
       "Go Intelligence Agency. Deploy operatives on the markets, competitors and signals that move your business.",
+    image: "/gia-hero.png",
   },
 ];
 
