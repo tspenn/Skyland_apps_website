@@ -27,12 +27,12 @@ const apps: App[] = [
   {
     to: "/friday-canvas",
     name: "FRIDAY Canvas",
-    tag: "fridaycanvas.com",
+    tag: "getfridayshelp.com",
     status: "Available",
     blurb:
       "For creators, founders, and busy minds who need a way to contain it all. FRIDAY Canvas brings every project into focus—giving you a total snapshot of what’s done, in progress, and next.",
     image: "/friday-canvas-hero.png",
-    external: "https://www.fridaycanvas.com/",
+    external: "https://getfridayshelp.com/",
   },
   {
     to: "/desk",

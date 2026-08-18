@@ -49,8 +49,8 @@ export const suiteProducts: {
     name: "FRIDAY Canvas",
     path: "/friday-canvas",
     description:
-      "A private workspace for thoughts, projects, and workload — with FRIDAY beside you, or off.",
-    sameAs: "https://www.fridaycanvas.com/",
+      "A private workspace for thoughts, projects, and workload — start at Get Friday's Help, then open the canvas.",
+    sameAs: "https://getfridayshelp.com/",
   },
   {
     name: "FRIDAY Desk",

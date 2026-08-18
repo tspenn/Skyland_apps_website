@@ -7,7 +7,7 @@ Support: support@skylandapps.com
 
 ## The suite
 
-- [FRIDAY Canvas](https://www.skylandapps.com/friday-canvas): Private workspace for thoughts, projects, and workload. App: https://www.fridaycanvas.com/
+- [FRIDAY Canvas](https://www.skylandapps.com/friday-canvas): Private workspace for thoughts, projects, and workload. Learn it at https://getfridayshelp.com/ — then open https://www.fridaycanvas.com/
 - [FRIDAY Desk](https://www.skylandapps.com/desk): Business tier of FRIDAY Canvas for leaders and growing teams.
 - [LnkLokr](https://www.skylandapps.com/lnklokr): On-device vault for links, images, and text. App: https://lnklokr.com/
 - [My Support Agent](https://www.skylandapps.com/my-support-agent-2): Suggested reply wording and how to resolve each message. App: https://www.my-support-agent.com/

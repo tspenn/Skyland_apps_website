@@ -4,7 +4,7 @@ For people with too many tabs and too many thoughts.
 
 One workspace for your thoughts, projects, and workload — browser-native, at your fingertips, on all your devices.
 
-**[Start at fridaycanvas.com](https://www.fridaycanvas.com/)**
+**[See what FRIDAY Canvas is — Get Friday's Help](https://getfridayshelp.com/)**
 
 ---
 
@@ -12,7 +12,7 @@ FRIDAY Canvas is a private workspace for what you think, what you are doing, and
 
 It is web based on purpose. Open it in the browser. Add it to your home screen. Same workspace on your phone, tablet, and laptop. No store listing. No bloat.
 
-Try FRIDAY Canvas free for 30 days. No credit card. Cancel anytime.
+Nobody lands on fridaycanvas.com and just “gets it.” **[Get Friday's Help](https://getfridayshelp.com/)** is the full site for FRIDAY Canvas — what it is, how it works, and whether it is for you. Start there.
 
 ---
 
@@ -25,6 +25,6 @@ Try FRIDAY Canvas free for 30 days. No credit card. Cancel anytime.
 
 ---
 
-See much more about FRIDAY Canvas at **[Get Friday's Help](https://getfridayshelp.com/)**.
+**[Get Friday's Help](https://getfridayshelp.com/)** — the whole story.
 
-**[Open FRIDAY Canvas](https://www.fridaycanvas.com/)** — 30 days free. No credit card needed.
+When you already know you want the workspace: **[fridaycanvas.com](https://www.fridaycanvas.com/)** — 30 days free. No credit card.
