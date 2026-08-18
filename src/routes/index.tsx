@@ -6,7 +6,7 @@ export const Route = createFileRoute("/")({
     pageHead({
       title: "Skyland Suite — Tools that make life simple from Skyland Reach",
       description:
-        "Zero-install tools from Skyland Reach: FRIDAY Canvas, FRIDAY Desk, TOC, My Lokr, LnkLokr, My Support Agent, ChkChk, Go Shop, Go News, My$, MNY$, and more. Browser-native. Light on your devices.",
+        "Zero-install tools from Skyland Reach: FRIDAY Canvas, FRIDAY Desk, TOC, LOKR, LnkLokr, My Support Agent, ChkChk, Go Shop, Go News, My$, MNY$, and more. Browser-native. Light on your devices.",
       path: "/",
       image: "/skyland-header-sun.png",
     }),
@@ -65,11 +65,11 @@ const apps: App[] = [
   },
   {
     to: "/my-lokr",
-    name: "My Lokr",
+    name: "LOKR",
     tag: "my-lokr.com",
     status: "Available",
     blurb:
-      "Private messaging for the people and files you actually care about. A locked space for families, small teams, and businesses — not Gmail, not Outlook, other operating systems and not the open internet. Invitees never get a bill. Start free - Stay free - unless you need more.",
+      "LOKR is your own encrypted information locker. Private messaging for the people and files you actually care about. A locked space for families, small teams, and businesses — not Gmail, not Outlook, other operating systems and not the open internet. Invitees never get a bill. Start free - Stay free - unless you need more.",
     image: "/my-lokr-hero.png",
     external: "https://my-lokr.com",
   },
@@ -216,7 +216,7 @@ function Index() {
             software. Even though these utilities live right in your browser or on
             your home screen, your data remains strictly yours. Whether it is your
             workflows, saved links, or private messages and conversations in{" "}
-            <Link to="/my-lokr">My Lokr</Link>
+            <Link to="/my-lokr">LOKR</Link>
             , everything is safeguarded with gold-standard Supabase encryption.
           </p>
         </div>

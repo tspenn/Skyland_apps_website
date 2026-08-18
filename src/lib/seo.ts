@@ -73,10 +73,10 @@ export const suiteProducts: {
     sameAs: "https://www.my-support-agent.com/",
   },
   {
-    name: "My Lokr",
+    name: "LOKR",
     path: "/my-lokr",
     description:
-      "Private messaging and file exchange for families, small teams, and businesses — not everyday email.",
+      "Your own encrypted information locker — private messaging and files for families, small teams, and businesses.",
     sameAs: "https://my-lokr.com",
   },
   {

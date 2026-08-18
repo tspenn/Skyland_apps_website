@@ -78,7 +78,7 @@ function ErrorComponent({ error, reset }: { error: Error; reset: () => void }) {
 const defaultSeo = pageHead({
   title: "Skyland Suite — Tools that make life simple from Skyland Reach",
   description:
-    "Zero-install tools from Skyland Reach: FRIDAY Canvas, FRIDAY Desk, TOC, My Lokr, LnkLokr, My Support Agent, ChkChk, Go Shop, Go News, My$, MNY$, and more. Browser-native. Light on your devices.",
+    "Zero-install tools from Skyland Reach: FRIDAY Canvas, FRIDAY Desk, TOC, LOKR, LnkLokr, My Support Agent, ChkChk, Go Shop, Go News, My$, MNY$, and more. Browser-native. Light on your devices.",
   path: "/",
   image: "/skyland-header-sun.png",
 });

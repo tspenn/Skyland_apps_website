@@ -1,4 +1,6 @@
-# My Lokr
+# LOKR
+
+Your own encrypted information locker.
 
 Private messaging for the people and information you actually care about.
 
@@ -8,7 +10,7 @@ Private messaging for the people and information you actually care about.
 
 Tired of being part of the big picture? Like the internet — but not sure you want to share all your secrets with the entire World Wide Web?
 
-My Lokr is a locked, controlled space for families, small teams, and businesses. It is for the conversations and documents that do not belong in regular email or everyday messaging apps — business plans, patent ideas, medical details, and files you would never put in Gmail or Outlook.
+LOKR is a locked, controlled space for families, small teams, and businesses. It is for the conversations and documents that do not belong in regular email or everyday messaging apps — business plans, patent ideas, medical details, and files you would never put in Gmail or Outlook.
 
 It is not a replacement for normal email.
 
@@ -22,7 +24,7 @@ The whole point is this: send the files and ideas you do not want sitting in ema
 
 It is a private messaging and file exchange system for the information you do not want sitting in email, consumer clouds, or the open internet.
 
-It is not a full replacement for Microsoft 365, Google Workspace, or everyday email. Those tools still work well for normal communication. My Lokr exists for the things that need tighter control.
+It is not a full replacement for Microsoft 365, Google Workspace, or everyday email. Those tools still work well for normal communication. LOKR exists for the things that need tighter control.
 
 ---
 
@@ -43,7 +45,7 @@ Your messages and files stay in a private system. They are not sent through Goog
 
 ## Plans and prices
 
-Add as many groups as you need. Each is free with 1–3 invitees (you plus three). Family, work, and a friend can each be their own free Lokr. People you invite do not get a bill. The 4th invitee in any one group is Business for that group only. Groups others invite you into stay free for you.
+Add as many groups as you need. Each is free with 1–3 invitees (you plus three). Family, work, and a friend can each be their own free LOKR. People you invite do not get a bill. The 4th invitee in any one group is Business for that group only. Groups others invite you into stay free for you.
 
 ### Free — $0
 
@@ -73,6 +75,6 @@ Extra private storage on any plan, including Free. Files stay in the same locked
 
 ## Just so you know…
 
-Skyland Suite tools are cloud-based, so they will not bloat your phone or slow it down. There is no heavy download — add it to your home screen. It works on Android, iOS, and a laptop. My Lokr data is stored on private Supabase servers, with database and storage rules that keep other people’s Lockrs out of reach.
+Skyland Suite tools are cloud-based, so they will not bloat your phone or slow it down. There is no heavy download — add it to your home screen. It works on Android, iOS, and a laptop. LOKR data is stored on private Supabase servers, with database and storage rules that keep other people’s LOKRs out of reach.
 
-Questions? Email **[support@skylandapps.com](mailto:support@skylandapps.com)** and tell us you are asking about My Lokr.
+Questions? Email **[support@skylandapps.com](mailto:support@skylandapps.com)** and tell us you are asking about LOKR.

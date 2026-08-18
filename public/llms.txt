@@ -11,7 +11,7 @@ Support: support@skylandapps.com
 - [FRIDAY Desk](https://www.skylandapps.com/desk): Business tier of FRIDAY Canvas for leaders and growing teams.
 - [LnkLokr](https://www.skylandapps.com/lnklokr): On-device vault for links, images, and text. App: https://lnklokr.com/
 - [My Support Agent](https://www.skylandapps.com/my-support-agent-2): Suggested reply wording and how to resolve each message. App: https://www.my-support-agent.com/
-- [My Lokr](https://www.skylandapps.com/my-lokr): Private messaging and files for families, teams, and businesses. App: https://my-lokr.com
+- [LOKR](https://www.skylandapps.com/my-lokr): Your own encrypted information locker for private messages and files. App: https://my-lokr.com
 - [TOC](https://www.skylandapps.com/my-toc): Tactical Operations Command for COOs and chiefs of staff. App: https://mytoc.app
 - [My$](https://www.skylandapps.com/mny): What you can spend right now, after bills and before payday. App: https://my-mny.com/
 - [MNY$](https://www.skylandapps.com/mnybusiness): Business cash-flow console across accounts, budgets, credit lines, and payroll.

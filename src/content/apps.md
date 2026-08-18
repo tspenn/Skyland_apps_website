@@ -15,8 +15,8 @@ Your personal content vault — copy a link, image, or scrap of text, then tap a
 ### [My Support Agent](/my-support-agent-2)
 With a dedicated inbox for support, sales, or questions, your agent meets every message with wording you can paste into your own reply, plus how to resolve it. You train it to know your business. — [my-support-agent.com](https://www.my-support-agent.com/)
 
-### [My Lokr](/my-lokr)
-Private messaging for the people and files you actually care about. A locked space for families, small teams, and businesses — not Gmail, not Outlook, other operating systems and not the open internet. Invitees never get a bill. Start free - Stay free - unless you need more. — [my-lokr.com](https://my-lokr.com)
+### [LOKR](/my-lokr)
+LOKR is your own encrypted information locker. Private messaging for the people and files you actually care about. A locked space for families, small teams, and businesses — not Gmail, not Outlook, other operating systems and not the open internet. Invitees never get a bill. Start free - Stay free - unless you need more. — [my-lokr.com](https://my-lokr.com)
 
 ### [TOC — Tactical Operations Command](/my-toc)
 TOC puts every major Directive for your leadership team in your hand. Open one, attach the brief, name the owner, watch what's current, close it yourself. This is command for COOs and chiefs of staff — the whole board, not a chat scroll, wherever you are. Directives hold the brief, the files, the owner, and the close — with Supabase encryption. You run the priorities that move the team — from your phone — without turning them into another chat thread. 14-day trial, no credit card. — [MyTOC.app](https://mytoc.app)
