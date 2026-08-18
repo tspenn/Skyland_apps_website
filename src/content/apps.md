@@ -44,7 +44,7 @@ One button. One answer. Know exactly what you can spend today, before your next 
 Live available-to-spend across operating accounts, division budgets, credit lines, and upcoming bills or payroll. Built for founders and operators who need the real number now — not a month-end P&L.
 
 ### [My Secret Agent](/my-secret-agent)
-Your own covert operative — watches prices, stocks, weather, and websites and texts you the moment things change.
+Your own covert operative — watches prices, stocks, weather, and websites and notifies you the moment things change.
 
 ### [GIA — Go Intelligence Agency](/gia)
 Deploy operatives on the markets, competitors and signals that move your business.

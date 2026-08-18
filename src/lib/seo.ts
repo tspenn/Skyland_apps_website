@@ -124,7 +124,7 @@ export const suiteProducts: {
     name: "My Secret Agent",
     path: "/my-secret-agent",
     description:
-      "A covert watcher for prices, stocks, weather, and websites that texts you when things change.",
+      "A covert watcher for prices, stocks, weather, and websites that notifies you when things change.",
   },
   {
     name: "GIA",

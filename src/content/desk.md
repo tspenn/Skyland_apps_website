@@ -9,7 +9,7 @@
 
 In fast-paced business environments, knowledge fragmentation is a productivity killer. Teams lose hours managing endless browser tabs, chasing updates across chat tools, and babysitting rigid internal wikis.
 
-FRIDAY Desk™ bridges the gap between deep research and immediate action. It provides a secure, unified digital environment where professionals can capture data, cross-reference active research, and broadcast critical updates to external clients or mobile teams—all from a single, centralized command center.
+FRIDAY Desk™ bridges the gap between deep research and immediate action. It provides a secure, unified digital environment where professionals can capture data, cross-reference active research, and keep the team current—all from a single, centralized command center.
 
 Upgrade to FRIDAY Desk for $79.99/mo — *Or save with annual billing at $799/year (Includes 2 Months Free).*
 
@@ -25,13 +25,13 @@ Stop digging through scattered notes. FRIDAY Desk structures your organization�
 
 ---
 
-## 📲 Outbound SMS Integration — Actionable Execution
+## 📲 Push Notifications — Actionable Execution
 
-Unlike consumer chat platforms that keep communication siloed inside a closed application, FRIDAY Desk acts as an outbound communication gateway.
+Unlike consumer chat platforms that keep communication siloed inside a closed application, FRIDAY Desk keeps status on the desk — and pings the people who need it.
 
-* **Direct SMS Broadcasting:** Push critical updates, client notifications, follow-ups, and documentation text directly from your active project workspace straight to any mobile phone.
-* **150 Sends Per Month:** Fully equipped with up to 150 outbound text messages per month.
-* **Searchable Communication History:** Maintain full operational accountability with a completely archived and searchable outbound text history.
+* **In-app alerts:** Critical updates, follow-ups, and file notes reach the people on the WorkZone through push notifications — not a side-channel chat.
+* **On the devices they already use:** Phone or laptop, if notifications are on. No extra messaging product.
+* **Tied to the work:** The ping opens the project, not a separate inbox.
 
 ---
 
@@ -52,8 +52,8 @@ Traditional AI interfaces operate as disconnected chat windows. FRIDAY Desk is e
 | **Legacy Workflows** | **The FRIDAY Desk Standard** |
 | --- | --- |
 | **Disjointed Wikis:** Pages you are forced to manually organize and maintain indefinitely. | **Fluid Execution:** A live workspace that lives dynamically right next to your browser. |
-| **Isolated Chat:** Internal conversational AI confined strictly to a passive side panel. | **Direct Distribution:** Text critical business updates directly out of the project matrix to external phones. |
-| **Tool Fatigue:** Yet another disconnected corporate software login for teams to check. | **The Unified Desk:** A singular pipeline to **Plan $\rightarrow$ Capture $\rightarrow$ Send**. |
+| **Isolated Chat:** Internal conversational AI confined strictly to a passive side panel. | **Direct Distribution:** Notify the team from the project — push, not a chat scroll. |
+| **Tool Fatigue:** Yet another disconnected corporate software login for teams to check. | **The Unified Desk:** A singular pipeline to **Plan → Capture → Act**. |
 
 ---
 
@@ -73,7 +73,7 @@ Transition your team from passive notation to active business execution. Secure 
 
 👉 **Deploy FRIDAY Desk Today**
 
-*Flexible corporate billing • Cancel at any time • Supported by Skyland Infrastructure*FRIDAY Desk is the Business tier of FRIDAY Canvas: WorkZones for the real work, an AI that can read what’s open, and Send SMS so status, files, and follow-ups leave the desk and hit the right phone.
+*Flexible corporate billing • Cancel at any time • Supported by Skyland Infrastructure*FRIDAY Desk is the Business tier of FRIDAY Canvas: WorkZones for the real work, an AI that can read what’s open, and push notifications so status, files, and follow-ups reach the right person.
 
 Not another notes tool. A desk that acts.
 
@@ -82,7 +82,7 @@ Not another notes tool. A desk that acts.
 ### What you get
 
 * WorkZones — projects, sessions, files in one place
-* Send SMS / Text Message — up to 150 sends/month, with searchable history
+* Push notifications — ping the people on the WorkZone when something needs them
 * Watch List — keep an eye on pages that matter while you work
 * Deep Read — full-page capture when a skim isn’t enough
 * 5M AI credits / month · 15 GB file pool · priority Business capacity
@@ -94,8 +94,8 @@ Not another notes tool. A desk that acts.
 | Other tools | FRIDAY Desk |
 | --- | --- |
 | Pages you organize forever | Work that lives next to the browser |
-| Chat in a side panel | Text the update from the project |
-| One more login to check | Same desk: plan → capture → send |
+| Chat in a side panel | Notify the team from the project |
+| One more login to check | Same desk: plan → capture → act |
 
 ---
 
@@ -114,8 +114,8 @@ Cancel anytime · Powered by Skyland Reach · A division of FRIDAY Canvas
 
 * Get this business workspace
 * Open FRIDAY Desk
-* Text from the desk. Work in the Zone.
-* Business productivity that actually sends
+* Notify from the desk. Work in the Zone.
+* Business productivity that actually acts
 
 ---
 

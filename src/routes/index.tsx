@@ -138,7 +138,7 @@ const apps: App[] = [
     tag: "my-secret-agent.com",
     status: "In Development",
     blurb:
-      "Your covert operative — watches prices, stocks, weather and websites, and texts you when things change.",
+      "Your covert operative — watches prices, stocks, weather and websites, and notifies you when things change.",
     image: "/my-secret-agent-hero.png",
   },
   {

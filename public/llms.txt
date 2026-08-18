@@ -18,7 +18,7 @@ Support: support@skylandapps.com
 - [Go Shop!](https://www.skylandapps.com/go-shop): Shopping companion for lists, recipes, trips, stock, and budget. App: https://www.my-go-shop.com/
 - [Go News](https://www.skylandapps.com/go-news-app): Light news companion across world, faith, geopolitics, sports, and tech. App: https://go-news.app/
 - [ChkChk](https://www.skylandapps.com/chkchk): Work-order tracker — assign, track, confirm. App: https://www.chkchk.app/
-- [My Secret Agent](https://www.skylandapps.com/my-secret-agent): Watches prices, stocks, weather, and websites, then texts you.
+- [My Secret Agent](https://www.skylandapps.com/my-secret-agent): Watches prices, stocks, weather, and websites, then notifies you.
 - [GIA](https://www.skylandapps.com/gia): Go Intelligence Agency — operatives on markets, competitors, and signals.
 
 ## Optional
