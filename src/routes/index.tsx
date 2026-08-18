@@ -1,16 +1,15 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
+import { pageHead } from "@/lib/seo";
 
 export const Route = createFileRoute("/")({
-  head: () => ({
-    meta: [
-      { title: "Skyland Suite — Tools that make life simple from Skyland Reach" },
-      {
-        name: "description",
-        content:
-          "Skyland Suite: zero-install tools that make life simple while doing the heavy lifting—FRIDAY Canvas, Desk, TOC, LnkLokr, My Support Agent, and more.",
-      },
-    ],
-  }),
+  head: () =>
+    pageHead({
+      title: "Skyland Suite — Tools that make life simple from Skyland Reach",
+      description:
+        "Zero-install tools from Skyland Reach: FRIDAY Canvas, FRIDAY Desk, TOC, My Lokr, LnkLokr, My Support Agent, ChkChk, Go Shop, Go News, My$, MNY$, and more. Browser-native. Light on your devices.",
+      path: "/",
+      image: "/skyland-header-sun.png",
+    }),
   component: Index,
 });
 

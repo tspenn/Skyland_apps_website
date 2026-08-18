@@ -12,6 +12,8 @@ import { useEffect, type ReactNode } from "react";
 import appCss from "../styles.css?url";
 import { reportLovableError } from "../lib/lovable-error-reporting";
 import { SiteHeader, SiteFooter } from "../components/site-chrome";
+import { SuiteJsonLd } from "../components/suite-json-ld";
+import { pageHead } from "../lib/seo";
 
 function NotFoundComponent() {
   return (
@@ -73,28 +75,24 @@ function ErrorComponent({ error, reset }: { error: Error; reset: () => void }) {
   );
 }
 
+const defaultSeo = pageHead({
+  title: "Skyland Suite — Tools that make life simple from Skyland Reach",
+  description:
+    "Zero-install tools from Skyland Reach: FRIDAY Canvas, FRIDAY Desk, TOC, My Lokr, LnkLokr, My Support Agent, ChkChk, Go Shop, Go News, My$, MNY$, and more. Browser-native. Light on your devices.",
+  path: "/",
+  image: "/skyland-header-sun.png",
+});
+
 export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()({
   head: () => ({
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Skyland Suite — Tools that make life simple from Skyland Reach" },
-      {
-        name: "description",
-        content:
-          "Skyland Suite: zero-install tools that make life simple while doing the heavy lifting — FRIDAY Canvas, Desk, TOC, LnkLokr, My Support Agent, and more.",
-      },
       { name: "author", content: "Skyland Reach LLC" },
-      { property: "og:title", content: "Skyland Suite — Tools that make life simple" },
-      {
-        property: "og:description",
-        content:
-          "Zero-install tools that make life simple while doing the heavy lifting — for your day, your work, and your teams.",
-      },
-      { property: "og:type", content: "website" },
-      { name: "twitter:card", content: "summary_large_image" },
+      ...defaultSeo.meta,
     ],
     links: [
+      ...defaultSeo.links,
       { rel: "stylesheet", href: appCss },
       { rel: "icon", href: "/favicon.png", type: "image/png" },
       { rel: "preconnect", href: "https://fonts.googleapis.com" },
@@ -118,6 +116,7 @@ function RootShell({ children }: { children: ReactNode }) {
         <HeadContent />
       </head>
       <body>
+        <SuiteJsonLd />
         {children}
         <Scripts />
       </body>
