@@ -138,8 +138,9 @@ const apps: App[] = [
     tag: "my-secret-agent.com",
     status: "In Development",
     blurb:
-      "Your covert operative — watches prices, stocks, weather and websites, and notifies you when things change.",
+      "Your covert operative — watches prices, stocks, weather and websites, and notifies you when things change. Free for 1 active watch. Agent $4.99/mo for 5. Network $14.99/mo for 20. Deactivate one to add another.",
     image: "/my-secret-agent-hero.png",
+    external: "https://my-secret-agent.com",
   },
   {
     to: "/gia",
