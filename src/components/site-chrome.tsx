@@ -3,11 +3,6 @@ import { Link } from "@tanstack/react-router";
 const navLinks: { to: string; label: string }[] = [
   { to: "/", label: "Home" },
   { to: "/apps", label: "Suite" },
-  { to: "/friday-canvas", label: "FRIDAY Canvas" },
-  { to: "/desk", label: "FRIDAY Desk" },
-  { to: "/lnklokr", label: "LnkLokr" },
-  { to: "/mny", label: "My$" },
-  { to: "/my-support-agent-2", label: "Support Agent" },
 ];
 
 export function SiteHeader() {
