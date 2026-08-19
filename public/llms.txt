@@ -24,4 +24,3 @@ Support: support@skylandapps.com
 ## Optional
 
 - [Full suite listing](https://www.skylandapps.com/apps)
-- [Get support](https://www.skylandapps.com/get-support)

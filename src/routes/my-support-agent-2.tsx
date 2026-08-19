@@ -29,6 +29,18 @@ function Page() {
             className="w-full h-auto block"
           />
         </div>
+        <div
+          className="relative mt-6 w-full overflow-hidden rounded-lg border border-border/60"
+          style={{ paddingTop: "56.25%" }}
+        >
+          <iframe
+            className="absolute inset-0 h-full w-full"
+            src="https://www.youtube.com/embed/KyttIrxPuN4"
+            title="My Support Agent"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowFullScreen
+          />
+        </div>
       </div>
       <MarkdownPage content={content} />
     </>

@@ -49,10 +49,10 @@ export function SiteFooter() {
             FRIDAY Canvas
           </Link>
           <Link
-            to="/get-support"
+            to="/my-support-agent-2"
             className="text-muted-foreground hover:text-[color:var(--color-gold)] hover:no-underline transition-colors"
           >
-            Get Support
+            My Support Agent
           </Link>
         </nav>
         <div className="text-sm text-muted-foreground flex flex-wrap items-center justify-between gap-4">
