@@ -46,8 +46,8 @@ Live available-to-spend across operating accounts, division budgets, credit line
 ### [My Secret Agent](/my-secret-agent)
 Your own covert operative — watches prices, stocks, weather, and websites and notifies you the moment things change. Free for 1 active watch. Agent $4.99/mo for 5. Network $14.99/mo for 20. — [my-secret-agent.com](https://my-secret-agent.com)
 
-### [GIA — Go Intelligence Agency](/gia)
-Deploy operatives on the markets, competitors and signals that move your business.
+### [GIA](/gia)
+GIA is your own intelligence desk — no terminal, no IT ticket, no quarterly lag. Deploy operatives on equities, competitors, news, public pages, and the other signals that move a decision. Group them into portfolios. Get a push when something changes, and a Sunday briefing of everything that fired. Built for founders, operators, and anyone who cannot sit and watch a screen all day. 30-day trial, no credit card. — [go-i-agency.com](https://go-i-agency.com)
 
 ### Go Travel!
 Trip dreams and plans — more a planner than a ticketing site. — go-trvl.com

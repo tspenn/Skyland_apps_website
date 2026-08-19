@@ -2,13 +2,16 @@ import { createFileRoute } from "@tanstack/react-router";
 import { MarkdownPage } from "@/components/markdown-page";
 import content from "@/content/gia.md?raw";
 
+const description =
+  "Go Intelligence Agency — deploy operatives on the markets, competitors, and signals that move your business.";
+
 export const Route = createFileRoute("/gia")({
   head: () => ({
     meta: [
       { title: "GIA — Go Intelligence Agency — Skyland Suite" },
-      { name: "description", content: "Personal intelligence operations for investors and CEOs." },
+      { name: "description", content: description },
       { property: "og:title", content: "GIA — Go Intelligence Agency — Skyland Suite" },
-      { property: "og:description", content: "Personal intelligence operations for investors and CEOs." },
+      { property: "og:description", content: description },
       { property: "og:image", content: "/gia-hero.png" },
     ],
   }),

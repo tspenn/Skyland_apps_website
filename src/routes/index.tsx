@@ -148,7 +148,7 @@ const apps: App[] = [
     tag: "go-i-agency.com",
     status: "In Development",
     blurb:
-      "Go Intelligence Agency. Deploy operatives on the markets, competitors and signals that move your business.",
+      "GIA is your own intelligence desk — no terminal, no IT ticket, no quarterly lag. Deploy operatives on equities, competitors, news, public pages, and the other signals that move a decision. Group them into portfolios. Get a push when something changes, and a Sunday briefing of everything that fired. Built for founders, operators, and anyone who cannot sit and watch a screen all day. 30-day trial, no credit card.",
     image: "/gia-hero.png",
   },
 ];
