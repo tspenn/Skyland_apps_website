@@ -138,7 +138,7 @@ const apps: App[] = [
     tag: "my-secret-agent.com",
     status: "In Development",
     blurb:
-      "Your covert operative — watches prices, stocks, weather and websites, and notifies you when things change. Free for 1 active watch. Agent $4.99/mo for 5. Network $14.99/mo for 20. Deactivate one to add another.",
+      "You already know the things that would change your day — a price that should drop, a stock that shouldn’t move, a forecast that might ruin the weekend, a page that better not change. You just can’t sit there and watch.\n\nTell your agent what to look for, in plain English. It works silently in the background and Pings you the moment it happens. One watch is free. No card.",
     image: "/my-secret-agent-hero.png",
     external: "https://my-secret-agent.com",
   },
@@ -285,9 +285,16 @@ function Index() {
                 </span>
               </div>
               <div className="text-sm text-muted-foreground mb-3">{app.tag}</div>
-              <p className="text-base md:text-lg text-foreground/90 leading-relaxed">
-                {app.blurb}
-              </p>
+              <div className="space-y-3">
+                {app.blurb.split("\n\n").map((para) => (
+                  <p
+                    key={para.slice(0, 32)}
+                    className="text-base md:text-lg text-foreground/90 leading-relaxed"
+                  >
+                    {para}
+                  </p>
+                ))}
+              </div>
             </Link>
           ))}
         </div>
