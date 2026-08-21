@@ -22,6 +22,7 @@ Nobody lands on fridaycanvas.com and just “gets it.” **[Get Friday's Help](h
 * WorkZones so each project stays findable.
 * A trail of what you have done, what is next, and what you would like to do.
 * FRIDAY to summarize, suggest next steps, or stay quiet until you ask.
+* DIG — FRIDAY helps you research from pages you have open in the browser. You send FRIDAY to those tabs when you need help with what is on them. Desktop, Chrome Extension.
 
 ---
 

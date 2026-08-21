@@ -35,13 +35,12 @@ Unlike consumer chat platforms that keep communication siloed inside a closed ap
 
 ---
 
-## 🔍 Deep Read & Tab Intelligence
+## 🔍 Deep Read & DIG
 
-Powered by the advanced [FRIDAY Chrome Extension](https://skylandreach.com/skyland-tech/fridaycanvas/), your workspace features sophisticated background observation tools engineered for extensive research.
+Powered by the advanced [FRIDAY Chrome Extension](https://skylandreach.com/skyland-tech/fridaycanvas/), your workspace is engineered for extensive research.
 
 * **Deep Read Capability:** Execute full-page data capture when standard web skimming isn’t sufficient for complex corporate research.
-* **Persistent Watch List:** Keep a secure eye on fluctuating industry pages, market metrics, or live reference URLs while you execute core deliverables.
-* **Read-Only Tab Awareness:** Grant the AI secure, real-time context over active browser text to automatically cross-reference web data against your internal project repositories.
+* **DIG:** FRIDAY helps you research from pages you have open in the browser. You send FRIDAY to those tabs when you need help with what is on them. Desktop, Chrome Extension.
 
 ---
 
@@ -73,7 +72,7 @@ Transition your team from passive notation to active business execution. Secure 
 
 👉 **Deploy FRIDAY Desk Today**
 
-*Flexible corporate billing • Cancel at any time • Supported by Skyland Infrastructure*FRIDAY Desk is the Business tier of FRIDAY Canvas: WorkZones for the real work, an AI that can read what’s open, and push notifications so status, files, and follow-ups reach the right person.
+*Flexible corporate billing • Cancel at any time • Supported by Skyland Infrastructure*FRIDAY Desk is the Business tier of FRIDAY Canvas: WorkZones for the real work, DIG for research from pages you have open in the browser, and push notifications so status, files, and follow-ups reach the right person.
 
 Not another notes tool. A desk that acts.
 
@@ -83,7 +82,7 @@ Not another notes tool. A desk that acts.
 
 * WorkZones — projects, sessions, files in one place
 * Push notifications — ping the people on the WorkZone when something needs them
-* Watch List — keep an eye on pages that matter while you work
+* DIG — FRIDAY helps you research from pages you have open in the browser. You send FRIDAY to those tabs when you need help with what is on them. Desktop, Chrome Extension.
 * Deep Read — full-page capture when a skim isn’t enough
 * 5M AI credits / month · 15 GB file pool · priority Business capacity
 
