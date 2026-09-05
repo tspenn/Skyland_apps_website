@@ -25,25 +25,6 @@ type App = {
 
 const apps: App[] = [
   {
-    to: "/friday-canvas",
-    name: "FRIDAY Canvas",
-    tag: "getfridayshelp.com",
-    status: "Available",
-    blurb:
-      "For creators, founders, and busy minds who need a way to contain it all. FRIDAY Canvas brings every project into focus—giving you a total snapshot of what’s done, in progress, and next.",
-    image: "/friday-canvas-hero.png",
-    external: "https://getfridayshelp.com/",
-  },
-  {
-    to: "/desk",
-    name: "FRIDAY Desk",
-    tag: "Business tier of FRIDAY Canvas",
-    status: "Available",
-    blurb:
-      "Built for leaders, managers, and growing teams who need total operational clarity. FRIDAY Desk centralizes workflows, keeps active projects visible, and aligns everyone without status-meeting bloat.",
-    image: "/friday-desk-hero.png",
-  },
-  {
     to: "/notie",
     name: "Notie",
     tag: "my-notie.com",
@@ -170,6 +151,25 @@ const apps: App[] = [
     blurb:
       "GIA is your own intelligence desk — no terminal, no IT ticket, no quarterly lag. Deploy operatives on equities, competitors, news, public pages, and the other signals that move a decision. Group them into portfolios. Get a push when something changes, and a Sunday briefing of everything that fired. Built for founders, operators, and anyone who cannot sit and watch a screen all day. 30-day trial, no credit card.",
     image: "/gia-hero.png",
+  },
+  {
+    to: "/friday-canvas",
+    name: "FRIDAY Canvas",
+    tag: "getfridayshelp.com",
+    status: "Available",
+    blurb:
+      "For creators, founders, and busy minds who need a way to contain it all. FRIDAY Canvas brings every project into focus—giving you a total snapshot of what’s done, in progress, and next.",
+    image: "/friday-canvas-hero.png",
+    external: "https://getfridayshelp.com/",
+  },
+  {
+    to: "/desk",
+    name: "FRIDAY Desk",
+    tag: "Business tier of FRIDAY Canvas",
+    status: "Available",
+    blurb:
+      "Built for leaders, managers, and growing teams who need total operational clarity. FRIDAY Desk centralizes workflows, keeps active projects visible, and aligns everyone without status-meeting bloat.",
+    image: "/friday-desk-hero.png",
   },
 ];
 

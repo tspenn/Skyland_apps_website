@@ -6,9 +6,6 @@ A growing family of everyday tools from **Skyland Reach — Tech Division**. Eac
 
 ## Available Now
 
-### [FRIDAY Canvas](/friday-canvas)
-For creators, founders, and busy minds who need a way to contain it all. FRIDAY Canvas brings every project into focus—giving you a total snapshot of what’s done, in progress, and next. Start at [Get Friday's Help](https://getfridayshelp.com/) — then open the workspace at [fridaycanvas.com](https://www.fridaycanvas.com/).
-
 ### [LnkLokr](/lnklokr)
 Your personal content vault — copy a link, image, or scrap of text, then tap a category. Keep what you need, Borrow what’s temporary, Share what you send, or Bury it behind a PIN. No sign-up. It stays on your device. — [lnklokr.com](https://lnklokr.com/)
 
@@ -20,9 +17,6 @@ LOKR is your own encrypted information locker. Private messaging for the people 
 
 ### [TOC — Tactical Operations Command](/my-toc)
 TOC puts every major Directive for your leadership team in your hand. Open one, attach the brief, name the owner, watch what's current, close it yourself. This is command for COOs and chiefs of staff — the whole board, not a chat scroll, wherever you are. Directives hold the brief, the files, the owner, and the close — with Supabase encryption. You run the priorities that move the team — from your phone — without turning them into another chat thread. 14-day trial, no credit card. — [MyTOC.app](https://mytoc.app)
-
-### [FRIDAY Desk](/desk)
-Built for leaders, managers, and growing teams who need total operational clarity. FRIDAY Desk centralizes workflows, keeps active projects visible, and aligns everyone without status-meeting bloat.
 
 ### [Notie](/notie)
 A quiet place for the writing that takes time. Notes, lists, ideas, plans, study notes, research, novels — organized, sorted, sharable. Writing tools only. No AI assistant. — [my-notie.com](https://www.my-notie.com/)
@@ -39,6 +33,12 @@ A Bible tool made for reading. Read and listen in the browser — light, on your
 
 ### [ChkChk](/chkchk)
 Assign. Track. Confirm. A work-order tracker for families, coaches, and small crews. The Lead assigns the job, the team works the list, and nothing is done until the Lead signs off. — [chkchk.app](https://www.chkchk.app/)
+
+### [FRIDAY Canvas](/friday-canvas)
+For creators, founders, and busy minds who need a way to contain it all. FRIDAY Canvas brings every project into focus—giving you a total snapshot of what’s done, in progress, and next. Start at [Get Friday's Help](https://getfridayshelp.com/) — then open the workspace at [fridaycanvas.com](https://www.fridaycanvas.com/).
+
+### [FRIDAY Desk](/desk)
+Built for leaders, managers, and growing teams who need total operational clarity. FRIDAY Desk centralizes workflows, keeps active projects visible, and aligns everyone without status-meeting bloat.
 
 
 ## In Development
