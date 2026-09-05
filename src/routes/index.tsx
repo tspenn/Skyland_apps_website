@@ -195,8 +195,9 @@ function Index() {
           Skyland Reach — Tech Division
         </p>
         <h1 className="text-5xl md:text-7xl leading-tight">
-          Welcome to{" "}
-          <span className="text-[color:var(--color-gold)]">Skyland Suite</span>
+          <span className="block">Welcome to</span>
+          <span className="block text-[color:var(--color-gold)]">Skyland Suite</span>
+          <span className="block text-3xl md:text-5xl mt-1">of Resources</span>
         </h1>
         <ul className="mt-6 max-w-2xl mx-auto text-left space-y-2 text-base md:text-lg text-muted-foreground">
           <li>⚡ Zero-Install: Runs instantly in any browser on phone or desktop.</li>
@@ -209,7 +210,7 @@ function Index() {
       <section className="container-narrow py-12">
         <div className="flex items-baseline justify-between mb-8">
           <h2 className="text-3xl md:text-4xl text-[color:var(--color-gold)]">
-            The suite
+            The Suite
           </h2>
           <Link to="/apps" className="text-sm">
             See all →
