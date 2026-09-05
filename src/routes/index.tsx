@@ -119,7 +119,7 @@ const apps: App[] = [
     tag: "go-bible.com",
     status: "Available",
     blurb:
-      "A Bible tool made for reading. Read and listen in the browser — light, on your phone or desktop, no store listing and no device bloat.",
+      "The Bible, made simple. Designed for readers who just want to open, read, or listen without getting lost in complex commentary or bloated study tools. Clean, distraction-free reading with instant answers when you have questions.",
     image: "/walking-by-faith-hero.png",
     external: "https://www.go-bible.com/",
   },

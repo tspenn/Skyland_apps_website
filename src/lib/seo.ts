@@ -97,7 +97,7 @@ export const suiteProducts: {
     name: "Walking By Faith",
     path: "/walking-by-faith",
     description:
-      "A Bible tool made for reading and listening — browser-native, light on your devices.",
+      "The Bible, made simple. Open, read, or listen — clean reading with instant answers when you have questions.",
     sameAs: "https://www.go-bible.com/",
   },
   {

@@ -29,7 +29,7 @@ A web-based shopping companion — private, secure, and it will not bloat the de
 Keeping tabs on all the things that matter. A web-based news companion — light, fast, and ready on all your devices. World, Africa, faith, geopolitics, sports, fashion, lifestyle, and tech. — [go-news.app](https://go-news.app/)
 
 ### [Walking By Faith](/walking-by-faith)
-A Bible tool made for reading. Read and listen in the browser — light, on your phone or desktop, no store listing and no device bloat. — [go-bible.com](https://www.go-bible.com/)
+The Bible, made simple. Designed for readers who just want to open, read, or listen without getting lost in complex commentary or bloated study tools. Clean, distraction-free reading with instant answers when you have questions. — [go-bible.com](https://www.go-bible.com/)
 
 ### [ChkChk](/chkchk)
 Assign. Track. Confirm. A work-order tracker for families, coaches, and small crews. The Lead assigns the job, the team works the list, and nothing is done until the Lead signs off. — [chkchk.app](https://www.chkchk.app/)

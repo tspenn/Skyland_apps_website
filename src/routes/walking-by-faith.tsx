@@ -3,7 +3,7 @@ import { MarkdownPage } from "@/components/markdown-page";
 import content from "@/content/walking-by-faith.md?raw";
 
 const description =
-  "Walking By Faith — a Bible tool made for reading and listening. Browser-native. Light on your devices.";
+  "The Bible, made simple. Open, read, or listen — clean, distraction-free reading with instant answers when you have questions.";
 
 export const Route = createFileRoute("/walking-by-faith")({
   head: () => ({
@@ -25,7 +25,7 @@ function Page() {
         <div className="relative w-full overflow-hidden rounded-lg border border-border/60">
           <img
             src="/walking-by-faith-hero.png"
-            alt="Walking By Faith — a Bible tool made for reading"
+            alt="Walking By Faith — the Bible, made simple"
             className="w-full h-auto block"
           />
         </div>
