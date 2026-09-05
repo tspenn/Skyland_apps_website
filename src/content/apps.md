@@ -18,12 +18,12 @@ LOKR is your own encrypted information locker. Private messaging for the people 
 ### [TOC — Tactical Operations Command](/my-toc)
 TOC puts every major Directive for your leadership team in your hand. Open one, attach the brief, name the owner, watch what's current, close it yourself. This is command for COOs and chiefs of staff — the whole board, not a chat scroll, wherever you are. Directives hold the brief, the files, the owner, and the close — with Supabase encryption. You run the priorities that move the team — from your phone — without turning them into another chat thread. 14-day trial, no credit card. — [MyTOC.app](https://mytoc.app)
 
-### [Notie](/notie)
-A quiet place for the writing that takes time. Notes, lists, ideas, plans, study notes, research, novels — organized, sorted, sharable. Writing tools only. No AI assistant. — [my-notie.com](https://www.my-notie.com/)
-
 ---
 ### [Go Shop!](/go-shop)
 A web-based shopping companion — private, secure, and it will not bloat the device. Lists, recipes, trip planning, stock tracking, projects, and a budget — remembered, reusable, ready for the next store run. — [my-go-shop.com](https://www.my-go-shop.com/)
+
+### [TRVL](/trvl)
+Your personal travel companion. Lists, recipes, trip planning, essentials tracking, journeys, and budgeting — all in one calm, organized place. — [my-trvl.com](https://www.my-trvl.com/)
 
 ### [Go News](/go-news-app)
 Keeping tabs on all the things that matter. A web-based news companion — light, fast, and ready on all your devices. World, Africa, faith, geopolitics, sports, fashion, lifestyle, and tech. — [go-news.app](https://go-news.app/)
@@ -40,6 +40,18 @@ For creators, founders, and busy minds who need a way to contain it all. FRIDAY 
 ### [FRIDAY Desk](/desk)
 Built for leaders, managers, and growing teams who need total operational clarity. FRIDAY Desk centralizes workflows, keeps active projects visible, and aligns everyone without status-meeting bloat.
 
+### [My Secret Agent](/my-secret-agent)
+Your own covert operative — watches prices, stocks, weather, and websites and notifies you the moment things change. Free for 1 active watch. Agent $4.99/mo for 5. Network $14.99/mo for 20. — [my-secret-agent.com](https://my-secret-agent.com)
+
+### [GIA](/gia)
+GIA is your own intelligence desk — no terminal, no IT ticket, no quarterly lag. Deploy operatives on equities, competitors, news, public pages, and the other signals that move a decision. Group them into portfolios. Get a push when something changes, and a Sunday briefing of everything that fired. Built for founders, operators, and anyone who cannot sit and watch a screen all day. 30-day trial, no credit card. — [go-i-agency.com](https://go-i-agency.com)
+
+
+## Coming Soon
+
+### [Notie](/notie)
+A quiet place for the writing that takes time. Notes, lists, ideas, plans, study notes, research, novels — organized, sorted, sharable. Writing tools only. No AI assistant. — [my-notie.com](https://www.my-notie.com/)
+
 
 ## In Development
 
@@ -48,15 +60,6 @@ One button. One answer. Know exactly what you can spend today, before your next 
 
 ### [MNY$](/mnybusiness)
 Live available-to-spend across operating accounts, division budgets, credit lines, and upcoming bills or payroll. Built for founders and operators who need the real number now — not a month-end P&L.
-
-### [My Secret Agent](/my-secret-agent)
-Your own covert operative — watches prices, stocks, weather, and websites and notifies you the moment things change. Free for 1 active watch. Agent $4.99/mo for 5. Network $14.99/mo for 20. — [my-secret-agent.com](https://my-secret-agent.com)
-
-### [GIA](/gia)
-GIA is your own intelligence desk — no terminal, no IT ticket, no quarterly lag. Deploy operatives on equities, competitors, news, public pages, and the other signals that move a decision. Group them into portfolios. Get a push when something changes, and a Sunday briefing of everything that fired. Built for founders, operators, and anyone who cannot sit and watch a screen all day. 30-day trial, no credit card. — [go-i-agency.com](https://go-i-agency.com)
-
-### Go Travel!
-Trip dreams and plans — more a planner than a ticketing site. — go-trvl.com
 
 ### Go Fashion
 For keeping track of all THE things in the fashion world. — go-fashion.app

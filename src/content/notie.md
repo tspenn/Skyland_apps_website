@@ -2,7 +2,7 @@
 
 A quiet place for the writing that takes time.
 
-**[Start at my-notie.com](https://www.my-notie.com/)**
+Coming soon.
 
 ---
 
@@ -22,4 +22,4 @@ It is web based on purpose. Open it in the browser. Add it to your home screen. 
 
 ---
 
-**[Open Notie](https://www.my-notie.com/)** — 30 days free.
+Coming soon. — [my-notie.com](https://www.my-notie.com/)

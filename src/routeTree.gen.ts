@@ -10,6 +10,7 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as WalkingByFaithRouteImport } from './routes/walking-by-faith'
+import { Route as TrvlRouteImport } from './routes/trvl'
 import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
 import { Route as NotieRouteImport } from './routes/notie'
 import { Route as MyTocRouteImport } from './routes/my-toc'
@@ -32,6 +33,11 @@ import { Route as IndexRouteImport } from './routes/index'
 const WalkingByFaithRoute = WalkingByFaithRouteImport.update({
   id: '/walking-by-faith',
   path: '/walking-by-faith',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const TrvlRoute = TrvlRouteImport.update({
+  id: '/trvl',
+  path: '/trvl',
   getParentRoute: () => rootRouteImport,
 } as any)
 const SitemapDotxmlRoute = SitemapDotxmlRouteImport.update({
@@ -144,6 +150,7 @@ export interface FileRoutesByFullPath {
   '/my-toc': typeof MyTocRoute
   '/notie': typeof NotieRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/trvl': typeof TrvlRoute
   '/walking-by-faith': typeof WalkingByFaithRoute
 }
 export interface FileRoutesByTo {
@@ -165,6 +172,7 @@ export interface FileRoutesByTo {
   '/my-toc': typeof MyTocRoute
   '/notie': typeof NotieRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/trvl': typeof TrvlRoute
   '/walking-by-faith': typeof WalkingByFaithRoute
 }
 export interface FileRoutesById {
@@ -187,6 +195,7 @@ export interface FileRoutesById {
   '/my-toc': typeof MyTocRoute
   '/notie': typeof NotieRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/trvl': typeof TrvlRoute
   '/walking-by-faith': typeof WalkingByFaithRoute
 }
 export interface FileRouteTypes {
@@ -210,6 +219,7 @@ export interface FileRouteTypes {
     | '/my-toc'
     | '/notie'
     | '/sitemap.xml'
+    | '/trvl'
     | '/walking-by-faith'
   fileRoutesByTo: FileRoutesByTo
   to:
@@ -231,6 +241,7 @@ export interface FileRouteTypes {
     | '/my-toc'
     | '/notie'
     | '/sitemap.xml'
+    | '/trvl'
     | '/walking-by-faith'
   id:
     | '__root__'
@@ -252,6 +263,7 @@ export interface FileRouteTypes {
     | '/my-toc'
     | '/notie'
     | '/sitemap.xml'
+    | '/trvl'
     | '/walking-by-faith'
   fileRoutesById: FileRoutesById
 }
@@ -274,6 +286,7 @@ export interface RootRouteChildren {
   MyTocRoute: typeof MyTocRoute
   NotieRoute: typeof NotieRoute
   SitemapDotxmlRoute: typeof SitemapDotxmlRoute
+  TrvlRoute: typeof TrvlRoute
   WalkingByFaithRoute: typeof WalkingByFaithRoute
 }
 
@@ -284,6 +297,13 @@ declare module '@tanstack/react-router' {
       path: '/walking-by-faith'
       fullPath: '/walking-by-faith'
       preLoaderRoute: typeof WalkingByFaithRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/trvl': {
+      id: '/trvl'
+      path: '/trvl'
+      fullPath: '/trvl'
+      preLoaderRoute: typeof TrvlRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/sitemap.xml': {
@@ -434,6 +454,7 @@ const rootRouteChildren: RootRouteChildren = {
   MyTocRoute: MyTocRoute,
   NotieRoute: NotieRoute,
   SitemapDotxmlRoute: SitemapDotxmlRoute,
+  TrvlRoute: TrvlRoute,
   WalkingByFaithRoute: WalkingByFaithRoute,
 }
 export const routeTree = rootRouteImport

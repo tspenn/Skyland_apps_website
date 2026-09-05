@@ -17,23 +17,13 @@ type App = {
   to: string;
   name: string;
   tag: string;
-  status: "Available" | "Beta" | "In Development";
+  status: "Available" | "Beta" | "Coming Soon" | "In Development";
   blurb: string;
   image?: string;
   external?: string;
 };
 
 const apps: App[] = [
-  {
-    to: "/notie",
-    name: "Notie",
-    tag: "my-notie.com",
-    status: "Available",
-    blurb:
-      "A quiet place for the writing that takes time. Notes, lists, ideas, plans, study notes, research, novels — organized, sorted, sharable. Writing tools only. No AI assistant.",
-    image: "/notie-hero.png",
-    external: "https://www.my-notie.com/",
-  },
   {
     to: "/lnklokr",
     name: "LnkLokr",
@@ -94,6 +84,16 @@ const apps: App[] = [
     image: "/mny-business-hero.png",
   },
   {
+    to: "/notie",
+    name: "Notie",
+    tag: "my-notie.com",
+    status: "Coming Soon",
+    blurb:
+      "A quiet place for the writing that takes time. Notes, lists, ideas, plans, study notes, research, novels — organized, sorted, sharable. Writing tools only. No AI assistant.",
+    image: "/notie-hero.png",
+    external: "https://www.my-notie.com/",
+  },
+  {
     to: "/go-shop",
     name: "Go Shop!",
     tag: "my-go-shop.com",
@@ -102,6 +102,16 @@ const apps: App[] = [
       "A web-based shopping companion — private, secure, and it will not bloat the device. Lists, recipes, trip planning, stock tracking, projects, and a budget — remembered, reusable, ready for the next store run.",
     image: "/go-shop-hero.png",
     external: "https://www.my-go-shop.com/",
+  },
+  {
+    to: "/trvl",
+    name: "TRVL",
+    tag: "my-trvl.com",
+    status: "Available",
+    blurb:
+      "Your personal travel companion. Lists, recipes, trip planning, essentials tracking, journeys, and budgeting — all in one calm, organized place.",
+    image: "/trvl-hero.png",
+    external: "https://www.my-trvl.com/",
   },
   {
     to: "/go-news-app",
@@ -137,7 +147,7 @@ const apps: App[] = [
     to: "/my-secret-agent",
     name: "My Secret Agent",
     tag: "my-secret-agent.com",
-    status: "In Development",
+    status: "Available",
     blurb:
       "You already know the things that would change your day — a price that should drop, a stock that shouldn’t move, a forecast that might ruin the weekend, a page that better not change. You just can’t sit there and watch.\n\nTell your agent what to look for, in plain English. It works silently in the background and Pings you the moment it happens. One watch is free. No card.",
     image: "/my-secret-agent-hero.png",
@@ -147,10 +157,11 @@ const apps: App[] = [
     to: "/gia",
     name: "GIA",
     tag: "go-i-agency.com",
-    status: "In Development",
+    status: "Available",
     blurb:
       "GIA is your own intelligence desk — no terminal, no IT ticket, no quarterly lag. Deploy operatives on equities, competitors, news, public pages, and the other signals that move a decision. Group them into portfolios. Get a push when something changes, and a Sunday briefing of everything that fired. Built for founders, operators, and anyone who cannot sit and watch a screen all day. 30-day trial, no credit card.",
     image: "/gia-hero.png",
+    external: "https://go-i-agency.com",
   },
   {
     to: "/friday-canvas",
@@ -176,6 +187,7 @@ const apps: App[] = [
 const statusStyles: Record<App["status"], string> = {
   Available: "text-[color:var(--color-gold)] border-[color:var(--color-gold)]/40",
   Beta: "text-[color:var(--color-sky)] border-[color:var(--color-sky)]/40",
+  "Coming Soon": "text-muted-foreground border-border",
   "In Development": "text-muted-foreground border-border",
 };
 

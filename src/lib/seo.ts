@@ -121,6 +121,13 @@ export const suiteProducts: {
     sameAs: "https://www.my-go-shop.com/",
   },
   {
+    name: "TRVL",
+    path: "/trvl",
+    description:
+      "Your personal travel companion for lists, recipes, trip planning, essentials, journeys, and a budget.",
+    sameAs: "https://www.my-trvl.com/",
+  },
+  {
     name: "Go News",
     path: "/go-news-app",
     description:
@@ -139,6 +146,7 @@ export const suiteProducts: {
     path: "/my-secret-agent",
     description:
       "A covert watcher for prices, stocks, weather, and websites that notifies you when things change.",
+    sameAs: "https://my-secret-agent.com",
   },
   {
     name: "GIA",

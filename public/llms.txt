@@ -16,9 +16,10 @@ Support: support@skylandapps.com
 - [My$](https://www.skylandapps.com/mny): What you can spend right now, after bills and before payday. App: https://my-mny.com/
 - [MNY$](https://www.skylandapps.com/mnybusiness): Business cash-flow console across accounts, budgets, credit lines, and payroll.
 - [Go Shop!](https://www.skylandapps.com/go-shop): Shopping companion for lists, recipes, trips, stock, and budget. App: https://www.my-go-shop.com/
+- [TRVL](https://www.skylandapps.com/trvl): Personal travel companion for lists, trips, essentials, journeys, and a budget. App: https://www.my-trvl.com/
 - [Go News](https://www.skylandapps.com/go-news-app): Light news companion across world, faith, geopolitics, sports, and tech. App: https://go-news.app/
 - [ChkChk](https://www.skylandapps.com/chkchk): Work-order tracker — assign, track, confirm. App: https://www.chkchk.app/
-- [Notie](https://www.skylandapps.com/notie): A quiet place for the writing that takes time. App: https://www.my-notie.com/
+- [Notie](https://www.skylandapps.com/notie): A quiet place for the writing that takes time. Coming soon. https://www.my-notie.com/
 - [Walking By Faith](https://www.skylandapps.com/walking-by-faith): The Bible, made simple — open, read, or listen. App: https://www.go-bible.com/
 - [My Secret Agent](https://www.skylandapps.com/my-secret-agent): Watches prices, stocks, weather, and websites, then notifies you.
 - [GIA](https://www.skylandapps.com/gia): Go Intelligence Agency — operatives on markets, competitors, and signals.
