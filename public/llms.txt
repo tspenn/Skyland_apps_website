@@ -18,6 +18,8 @@ Support: support@skylandapps.com
 - [Go Shop!](https://www.skylandapps.com/go-shop): Shopping companion for lists, recipes, trips, stock, and budget. App: https://www.my-go-shop.com/
 - [Go News](https://www.skylandapps.com/go-news-app): Light news companion across world, faith, geopolitics, sports, and tech. App: https://go-news.app/
 - [ChkChk](https://www.skylandapps.com/chkchk): Work-order tracker — assign, track, confirm. App: https://www.chkchk.app/
+- [Notie](https://www.skylandapps.com/notie): A quiet place for the writing that takes time. App: https://www.my-notie.com/
+- [Walking By Faith](https://www.skylandapps.com/walking-by-faith): A Bible tool made for reading and listening. App: https://www.go-bible.com/
 - [My Secret Agent](https://www.skylandapps.com/my-secret-agent): Watches prices, stocks, weather, and websites, then notifies you.
 - [GIA](https://www.skylandapps.com/gia): Go Intelligence Agency — operatives on markets, competitors, and signals.
 

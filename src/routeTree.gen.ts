@@ -9,11 +9,13 @@
 // Additionally, you should also exclude this file from your linter and/or formatter to prevent it from being checked or modified.
 
 import { Route as rootRouteImport } from './routes/__root'
+import { Route as WalkingByFaithRouteImport } from './routes/walking-by-faith'
 import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
+import { Route as NotieRouteImport } from './routes/notie'
 import { Route as MyTocRouteImport } from './routes/my-toc'
 import { Route as MySupportAgent2RouteImport } from './routes/my-support-agent-2'
-import { Route as MyLokrRouteImport } from './routes/my-lokr'
 import { Route as MySecretAgentRouteImport } from './routes/my-secret-agent'
+import { Route as MyLokrRouteImport } from './routes/my-lokr'
 import { Route as MnybusinessRouteImport } from './routes/mnybusiness'
 import { Route as MnyRouteImport } from './routes/mny'
 import { Route as LnklokrRouteImport } from './routes/lnklokr'
@@ -23,13 +25,23 @@ import { Route as GiaRouteImport } from './routes/gia'
 import { Route as GetSupportRouteImport } from './routes/get-support'
 import { Route as FridayCanvasRouteImport } from './routes/friday-canvas'
 import { Route as DeskRouteImport } from './routes/desk'
-import { Route as AppsRouteImport } from './routes/apps'
 import { Route as ChkchkRouteImport } from './routes/chkchk'
+import { Route as AppsRouteImport } from './routes/apps'
 import { Route as IndexRouteImport } from './routes/index'
 
+const WalkingByFaithRoute = WalkingByFaithRouteImport.update({
+  id: '/walking-by-faith',
+  path: '/walking-by-faith',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const SitemapDotxmlRoute = SitemapDotxmlRouteImport.update({
   id: '/sitemap.xml',
   path: '/sitemap.xml',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const NotieRoute = NotieRouteImport.update({
+  id: '/notie',
+  path: '/notie',
   getParentRoute: () => rootRouteImport,
 } as any)
 const MyTocRoute = MyTocRouteImport.update({
@@ -42,14 +54,14 @@ const MySupportAgent2Route = MySupportAgent2RouteImport.update({
   path: '/my-support-agent-2',
   getParentRoute: () => rootRouteImport,
 } as any)
-const MyLokrRoute = MyLokrRouteImport.update({
-  id: '/my-lokr',
-  path: '/my-lokr',
-  getParentRoute: () => rootRouteImport,
-} as any)
 const MySecretAgentRoute = MySecretAgentRouteImport.update({
   id: '/my-secret-agent',
   path: '/my-secret-agent',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const MyLokrRoute = MyLokrRouteImport.update({
+  id: '/my-lokr',
+  path: '/my-lokr',
   getParentRoute: () => rootRouteImport,
 } as any)
 const MnybusinessRoute = MnybusinessRouteImport.update({
@@ -97,14 +109,14 @@ const DeskRoute = DeskRouteImport.update({
   path: '/desk',
   getParentRoute: () => rootRouteImport,
 } as any)
-const AppsRoute = AppsRouteImport.update({
-  id: '/apps',
-  path: '/apps',
-  getParentRoute: () => rootRouteImport,
-} as any)
 const ChkchkRoute = ChkchkRouteImport.update({
   id: '/chkchk',
   path: '/chkchk',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const AppsRoute = AppsRouteImport.update({
+  id: '/apps',
+  path: '/apps',
   getParentRoute: () => rootRouteImport,
 } as any)
 const IndexRoute = IndexRouteImport.update({
@@ -126,11 +138,13 @@ export interface FileRoutesByFullPath {
   '/lnklokr': typeof LnklokrRoute
   '/mny': typeof MnyRoute
   '/mnybusiness': typeof MnybusinessRoute
-  '/my-secret-agent': typeof MySecretAgentRoute
   '/my-lokr': typeof MyLokrRoute
+  '/my-secret-agent': typeof MySecretAgentRoute
   '/my-support-agent-2': typeof MySupportAgent2Route
   '/my-toc': typeof MyTocRoute
+  '/notie': typeof NotieRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/walking-by-faith': typeof WalkingByFaithRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
@@ -149,7 +163,9 @@ export interface FileRoutesByTo {
   '/my-secret-agent': typeof MySecretAgentRoute
   '/my-support-agent-2': typeof MySupportAgent2Route
   '/my-toc': typeof MyTocRoute
+  '/notie': typeof NotieRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/walking-by-faith': typeof WalkingByFaithRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
@@ -169,7 +185,9 @@ export interface FileRoutesById {
   '/my-secret-agent': typeof MySecretAgentRoute
   '/my-support-agent-2': typeof MySupportAgent2Route
   '/my-toc': typeof MyTocRoute
+  '/notie': typeof NotieRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/walking-by-faith': typeof WalkingByFaithRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
@@ -190,7 +208,9 @@ export interface FileRouteTypes {
     | '/my-secret-agent'
     | '/my-support-agent-2'
     | '/my-toc'
+    | '/notie'
     | '/sitemap.xml'
+    | '/walking-by-faith'
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/'
@@ -209,7 +229,9 @@ export interface FileRouteTypes {
     | '/my-secret-agent'
     | '/my-support-agent-2'
     | '/my-toc'
+    | '/notie'
     | '/sitemap.xml'
+    | '/walking-by-faith'
   id:
     | '__root__'
     | '/'
@@ -228,7 +250,9 @@ export interface FileRouteTypes {
     | '/my-secret-agent'
     | '/my-support-agent-2'
     | '/my-toc'
+    | '/notie'
     | '/sitemap.xml'
+    | '/walking-by-faith'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
@@ -248,16 +272,32 @@ export interface RootRouteChildren {
   MySecretAgentRoute: typeof MySecretAgentRoute
   MySupportAgent2Route: typeof MySupportAgent2Route
   MyTocRoute: typeof MyTocRoute
+  NotieRoute: typeof NotieRoute
   SitemapDotxmlRoute: typeof SitemapDotxmlRoute
+  WalkingByFaithRoute: typeof WalkingByFaithRoute
 }
 
 declare module '@tanstack/react-router' {
   interface FileRoutesByPath {
+    '/walking-by-faith': {
+      id: '/walking-by-faith'
+      path: '/walking-by-faith'
+      fullPath: '/walking-by-faith'
+      preLoaderRoute: typeof WalkingByFaithRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/sitemap.xml': {
       id: '/sitemap.xml'
       path: '/sitemap.xml'
       fullPath: '/sitemap.xml'
       preLoaderRoute: typeof SitemapDotxmlRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/notie': {
+      id: '/notie'
+      path: '/notie'
+      fullPath: '/notie'
+      preLoaderRoute: typeof NotieRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/my-toc': {
@@ -274,18 +314,18 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof MySupportAgent2RouteImport
       parentRoute: typeof rootRouteImport
     }
-    '/my-lokr': {
-      id: '/my-lokr'
-      path: '/my-lokr'
-      fullPath: '/my-lokr'
-      preLoaderRoute: typeof MyLokrRouteImport
-      parentRoute: typeof rootRouteImport
-    }
     '/my-secret-agent': {
       id: '/my-secret-agent'
       path: '/my-secret-agent'
       fullPath: '/my-secret-agent'
       preLoaderRoute: typeof MySecretAgentRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/my-lokr': {
+      id: '/my-lokr'
+      path: '/my-lokr'
+      fullPath: '/my-lokr'
+      preLoaderRoute: typeof MyLokrRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/mnybusiness': {
@@ -351,18 +391,18 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof DeskRouteImport
       parentRoute: typeof rootRouteImport
     }
-    '/apps': {
-      id: '/apps'
-      path: '/apps'
-      fullPath: '/apps'
-      preLoaderRoute: typeof AppsRouteImport
-      parentRoute: typeof rootRouteImport
-    }
     '/chkchk': {
       id: '/chkchk'
       path: '/chkchk'
       fullPath: '/chkchk'
       preLoaderRoute: typeof ChkchkRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/apps': {
+      id: '/apps'
+      path: '/apps'
+      fullPath: '/apps'
+      preLoaderRoute: typeof AppsRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/': {
@@ -392,7 +432,9 @@ const rootRouteChildren: RootRouteChildren = {
   MySecretAgentRoute: MySecretAgentRoute,
   MySupportAgent2Route: MySupportAgent2Route,
   MyTocRoute: MyTocRoute,
+  NotieRoute: NotieRoute,
   SitemapDotxmlRoute: SitemapDotxmlRoute,
+  WalkingByFaithRoute: WalkingByFaithRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)

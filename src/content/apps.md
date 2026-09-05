@@ -24,12 +24,18 @@ TOC puts every major Directive for your leadership team in your hand. Open one, 
 ### [FRIDAY Desk](/desk)
 Built for leaders, managers, and growing teams who need total operational clarity. FRIDAY Desk centralizes workflows, keeps active projects visible, and aligns everyone without status-meeting bloat.
 
+### [Notie](/notie)
+A quiet place for the writing that takes time. Notes, lists, ideas, plans, study notes, research, novels — organized, sorted, sharable. Writing tools only. No AI assistant. — [my-notie.com](https://www.my-notie.com/)
+
 ---
 ### [Go Shop!](/go-shop)
 A web-based shopping companion — private, secure, and it will not bloat the device. Lists, recipes, trip planning, stock tracking, projects, and a budget — remembered, reusable, ready for the next store run. — [my-go-shop.com](https://www.my-go-shop.com/)
 
 ### [Go News](/go-news-app)
 Keeping tabs on all the things that matter. A web-based news companion — light, fast, and ready on all your devices. World, Africa, faith, geopolitics, sports, fashion, lifestyle, and tech. — [go-news.app](https://go-news.app/)
+
+### [Walking By Faith](/walking-by-faith)
+A Bible tool made for reading. Read and listen in the browser — light, on your phone or desktop, no store listing and no device bloat. — [go-bible.com](https://www.go-bible.com/)
 
 ### [ChkChk](/chkchk)
 Assign. Track. Confirm. A work-order tracker for families, coaches, and small crews. The Lead assigns the job, the team works the list, and nothing is done until the Lead signs off. — [chkchk.app](https://www.chkchk.app/)

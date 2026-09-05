@@ -44,6 +44,16 @@ const apps: App[] = [
     image: "/friday-desk-hero.png",
   },
   {
+    to: "/notie",
+    name: "Notie",
+    tag: "my-notie.com",
+    status: "Available",
+    blurb:
+      "A quiet place for the writing that takes time. Notes, lists, ideas, plans, study notes, research, novels — organized, sorted, sharable. Writing tools only. No AI assistant.",
+    image: "/notie-hero.png",
+    external: "https://www.my-notie.com/",
+  },
+  {
     to: "/lnklokr",
     name: "LnkLokr",
     tag: "lnklokr.com",
@@ -123,6 +133,16 @@ const apps: App[] = [
     external: "https://go-news.app/",
   },
   {
+    to: "/walking-by-faith",
+    name: "Walking By Faith",
+    tag: "go-bible.com",
+    status: "Available",
+    blurb:
+      "A Bible tool made for reading. Read and listen in the browser — light, on your phone or desktop, no store listing and no device bloat.",
+    image: "/walking-by-faith-hero.png",
+    external: "https://www.go-bible.com/",
+  },
+  {
     to: "/chkchk",
     name: "ChkChk",
     tag: "chkchk.app",
@@ -170,7 +190,7 @@ function Index() {
         />
       </div>
       {/* Hero */}
-      <section className="container-narrow pt-6 md:pt-8 pb-12 text-center">
+      <section className="container-narrow pt-6 md:pt-8 pb-6 text-center">
         <p className="uppercase tracking-[0.3em] text-xs text-[color:var(--color-gold)] mb-4">
           Skyland Reach — Tech Division
         </p>
@@ -178,19 +198,62 @@ function Index() {
           Welcome to{" "}
           <span className="text-[color:var(--color-gold)]">Skyland Suite</span>
         </h1>
-        <p className="mt-6 text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
-          Zero-install tools that make life simple while doing the heavy
-          lifting—for your day, your work, and teams built to move fast. A
-          hub for your ideas, a vault for your links, and a smarter way to
-          operate. Browser-native, simple, and light on your devices.
-        </p>
-        <div className="mt-8 flex flex-wrap justify-center gap-3">
-          <Link
-            to="/apps"
-            className="inline-flex items-center rounded-md bg-[color:var(--color-gold)] px-5 py-2.5 text-sm font-medium text-[color:var(--color-primary-foreground)] hover:no-underline hover:opacity-90 transition"
-          >
-            Browse the suite
+        <ul className="mt-6 max-w-2xl mx-auto text-left space-y-2 text-base md:text-lg text-muted-foreground">
+          <li>⚡ Zero-Install: Runs instantly in any browser on phone or desktop.</li>
+          <li>🔒 Privacy-First: Encrypted data, no invasive tracking.</li>
+          <li>🛠️ No App Store Overhead: Always up-to-date, zero device bloat.</li>
+        </ul>
+      </section>
+
+      {/* Suite grid */}
+      <section className="container-narrow py-12">
+        <div className="flex items-baseline justify-between mb-8">
+          <h2 className="text-3xl md:text-4xl text-[color:var(--color-gold)]">
+            The suite
+          </h2>
+          <Link to="/apps" className="text-sm">
+            See all →
           </Link>
+        </div>
+        <div className="grid gap-8 md:gap-10 md:grid-cols-2">
+          {apps.map((app) => (
+            <Link
+              key={app.to}
+              to={app.to}
+              className="group block rounded-xl border border-white/15 bg-card p-6 shadow-[0_12px_40px_rgba(0,0,0,0.35)] hover:border-[color:var(--color-gold)]/50 hover:no-underline transition-colors"
+            >
+              {app.image && (
+                <div className="-mx-6 -mt-6 mb-5 overflow-hidden rounded-t-xl bg-black p-3">
+                  <img
+                    src={app.image}
+                    alt=""
+                    className="w-full h-auto block"
+                  />
+                </div>
+              )}
+              <div className="flex items-center justify-between gap-3 mb-2">
+                <h3 className="text-2xl text-foreground group-hover:text-[color:var(--color-gold)] transition-colors">
+                  {app.name}
+                </h3>
+                <span
+                  className={`text-[10px] uppercase tracking-widest px-2 py-0.5 rounded-full border ${statusStyles[app.status]}`}
+                >
+                  {app.status}
+                </span>
+              </div>
+              <div className="text-sm text-muted-foreground mb-3">{app.tag}</div>
+              <div className="space-y-3">
+                {app.blurb.split("\n\n").map((para) => (
+                  <p
+                    key={para.slice(0, 32)}
+                    className="text-base md:text-lg text-foreground/90 leading-relaxed"
+                  >
+                    {para}
+                  </p>
+                ))}
+              </div>
+            </Link>
+          ))}
         </div>
       </section>
 
@@ -245,58 +308,6 @@ function Index() {
             business or streamlining your daily routine, Skyland Reach gives you
             the secure, intuitive foundation to reach your next summit.
           </p>
-        </div>
-      </section>
-
-      {/* Suite grid */}
-      <section className="container-narrow py-12">
-        <div className="flex items-baseline justify-between mb-8">
-          <h2 className="text-3xl md:text-4xl text-[color:var(--color-gold)]">
-            The suite
-          </h2>
-          <Link to="/apps" className="text-sm">
-            See all →
-          </Link>
-        </div>
-        <div className="grid gap-8 md:gap-10 md:grid-cols-2">
-          {apps.map((app) => (
-            <Link
-              key={app.to}
-              to={app.to}
-              className="group block rounded-xl border border-white/15 bg-card p-6 shadow-[0_12px_40px_rgba(0,0,0,0.35)] hover:border-[color:var(--color-gold)]/50 hover:no-underline transition-colors"
-            >
-              {app.image && (
-                <div className="-mx-6 -mt-6 mb-5 overflow-hidden rounded-t-xl bg-black p-3">
-                  <img
-                    src={app.image}
-                    alt=""
-                    className="w-full h-auto block"
-                  />
-                </div>
-              )}
-              <div className="flex items-center justify-between gap-3 mb-2">
-                <h3 className="text-2xl text-foreground group-hover:text-[color:var(--color-gold)] transition-colors">
-                  {app.name}
-                </h3>
-                <span
-                  className={`text-[10px] uppercase tracking-widest px-2 py-0.5 rounded-full border ${statusStyles[app.status]}`}
-                >
-                  {app.status}
-                </span>
-              </div>
-              <div className="text-sm text-muted-foreground mb-3">{app.tag}</div>
-              <div className="space-y-3">
-                {app.blurb.split("\n\n").map((para) => (
-                  <p
-                    key={para.slice(0, 32)}
-                    className="text-base md:text-lg text-foreground/90 leading-relaxed"
-                  >
-                    {para}
-                  </p>
-                ))}
-              </div>
-            </Link>
-          ))}
         </div>
       </section>
 

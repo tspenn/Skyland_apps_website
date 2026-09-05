@@ -87,6 +87,20 @@ export const suiteProducts: {
     sameAs: "https://mytoc.app",
   },
   {
+    name: "Notie",
+    path: "/notie",
+    description:
+      "A quiet place for the writing that takes time — notes, lists, ideas, and longer work. No AI assistant.",
+    sameAs: "https://www.my-notie.com/",
+  },
+  {
+    name: "Walking By Faith",
+    path: "/walking-by-faith",
+    description:
+      "A Bible tool made for reading and listening — browser-native, light on your devices.",
+    sameAs: "https://www.go-bible.com/",
+  },
+  {
     name: "My$",
     path: "/mny",
     description:
