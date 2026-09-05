@@ -195,7 +195,7 @@ function Index() {
           Skyland Reach — Tech Division
         </p>
         <h1 className="text-5xl md:text-7xl leading-tight">
-          <span className="block">Welcome to</span>
+          <span className="block">Welcome to the</span>
           <span className="block text-[color:var(--color-gold)]">Skyland Suite</span>
           <span className="block text-3xl md:text-5xl mt-1">of Resources</span>
         </h1>
