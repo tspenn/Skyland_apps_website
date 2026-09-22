@@ -10,7 +10,7 @@ A growing family of everyday tools from **Skyland Reach — Tech Division**. Eac
 Your personal content vault — copy a link, image, or scrap of text, then tap a category. Keep what you need, Borrow what’s temporary, Share what you send, or Bury it behind a PIN. No sign-up. It stays on your device. — [lnklokr.com](https://lnklokr.com/)
 
 ### [My Support Agent](/my-support-agent-2)
-With a dedicated inbox for support, sales, or questions, your agent meets every message with wording you can paste into your own reply, plus how to resolve it. You train it to know your business. — [my-support-agent.com](https://www.my-support-agent.com/)
+Your emails are getting buried under everything else. Forward that address once. Every message becomes a case you can see, answer, and close. — [Start here](https://www.my-support-agent.com/start)
 
 ### [LOKR](/my-lokr)
 LOKR is your own encrypted information locker. Private messaging for the people and files you actually care about. A locked space for families, small teams, and businesses — not Gmail, not Outlook, other operating systems and not the open internet. Invitees never get a bill. Start free - Stay free - unless you need more. — [my-lokr.com](https://my-lokr.com)

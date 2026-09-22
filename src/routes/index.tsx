@@ -40,7 +40,7 @@ const apps: App[] = [
     tag: "my-support-agent.com",
     status: "Available",
     blurb:
-      "With a dedicated inbox for support, sales, or questions, your agent meets every message with wording you can paste into your own reply, plus how to resolve it. You train it to know your business.",
+      "Your emails are getting buried under everything else. Forward that address once. Every message becomes a case you can see, answer, and close.",
     image: "/my-support-agent-hero.png",
     external: "https://www.my-support-agent.com/",
   },

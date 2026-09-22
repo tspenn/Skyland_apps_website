@@ -1,44 +1,44 @@
 # My Support Agent
 
-### Let me introduce you to My Support Agent (My-Support-Agent.com)
+Let me introduce you to My Support Agent.
 
-Every day, support emails land in your inbox and disappear into the noise.
+It may not be support. It may be sales. It may be appointments.
 
-You reply to some. You forget others. A customer follows up three times before you find their original message buried under newsletters and calendar invites. You know the fix — you just couldn’t find the email. – **Get your support agent – [HERE](https://www.my-support-agent.com/)**
+A customer asking for a Tuesday at two. A shop wanting a quote before they order. A delivery that needs a yes today. A “can you hold this until Saturday.” You reply to some. You forget others. They write again. You already know the answer — you just cannot find the email.
 
-#### My Support Agent fixes that.
+This is not only about problems. It is about the mail that makes the week run.
 
-Forward from a dedicated address once — support, sales, questions, whatever you choose to run. That inbox is yours to set up. Every message becomes a case in your Command Center — organized, threaded, and ready to act on. No more searching. No more missed requests. No more customers wondering if anyone heard them.
+I built this because I run more than one concern, and the mail lived in too many places. Newsletters. Calendar. Vendor invoices. The note that mattered sat under all of it. I wanted one desk for the mail that pays the week — without handing my whole inbox to a stranger, and without asking my customer to learn a new address.
 
-And when a case arrives, your AI support agent has already read it and offered a suggestion: a reply you can copy and insert, and how to resolve the issue — not a drafted email. You train it to know your business.
+That is the product. The rest is what it feels like to use, for the person who will sit a minute.
 
----
-
-#### Smart Features, Zero Setup
-
-One dedicated address: Point a separate inbox at My Support Agent — support, sales, questions, or any mailbox you want handled. Setting up that address is on you. Customers keep emailing the same place. Nothing changes for them. Everything that lands there is fed straight in, so the Agent sees it, knows the thread, and can help.
-
-AI Suggested Fixes: Every case arrives with a 2-3 sentence suggested response or fix, written by Claude. Your business profile teaches it your industry, your tone, and your common issues.
-
-Click to Reply: One click opens your email client with the customer’s address and subject already filled in. You write the reply. We never touch your outgoing email.
-
-Work Notes: Log what you did, what you found, what needs follow-up — right alongside the case. Close it when it’s done.
-
-![](https://skylandapps.com/wp-content/uploads/2026/06/support.png)
+**[Give it one place](https://www.my-support-agent.com/start)** — fourteen days. No credit card.
 
 ---
 
-#### It’s Not Magic — It’s Organization
+## The Week, Without a Hunt
 
-My Support Agent connects through a simple forwarding rule — no passwords, no plugins, no integrations to maintain. You stand up a dedicated address (support, sales, questions — your call) and tell your email provider to send those messages to your My Support Agent address. That’s it.
+You already have an address people write to. Sales. Bookings. Support. Hello. A Gmail you stood up so the shop would not land on top of the bank and the kids.
 
-From there, every inbound message becomes a case. The Agent reads it and offers a suggestion: a reply you can copy and insert, and how to resolve the issue — not a drafted email. Your Command Center keeps it organized until you mark it resolved. All seen. All helped. No more falling through the cracks.
+They keep writing there. You keep meaning to make a system. What you have is search. You remember a name. You remember a week. You find the thread, or you do not, and you send a half-answer because the original is under a shipping notice.
+
+My Support Agent does not take that address away. Your customer does not get a new place to write. They never have to hear our name. They write to you. You answer as you.
+
+What changes is the pile. The mail that hits the address you chose becomes a case you can see. New. In motion. Done. The files they sent stay with the case. The next time that person writes, you are not starting from a blank search bar.
+
+A sale does not sit under a newsletter. An appointment does not vanish under a vendor invoice. You work a list. You close it.
 
 ---
 
-#### 🔒 Your Data Is Always Safe
+## You Still Own the Mailbox
 
-Read-only email processing — My Support Agent receives forwarded copies of emails. It cannot access your inbox, your sent mail, or any other account.
+We do not ask for your email password. We do not install a plugin. We do not want a key to everything you have ever sent.
+
+You keep the address your people already use. You point that mailbox at us. One forward. After that, their world is the same. Yours is a desk instead of a hunt.
+
+If you stop pointing it, we go dark. We do not keep a back door.
+
+We see what you send us. We do not see the rest of your life.
 
 * Your email password never touches us
 * Bank-level 256-bit encryption, end to end
@@ -47,62 +47,104 @@ Read-only email processing — My Support Agent receives forwarded copies of ema
 
 ---
 
+## A Suggestion. You Send It.
+
+When a case arrives, there is already a short suggestion waiting — a way to answer, a way to handle it. A sale. A booking. A complaint. A “where is it.”
+
+It is not a letter we mailed in your name. We do not send as you. You read it. You change it. You send it from your own mail, the way you always did.
+
+That is slower than a robot that replies to everyone at two in the morning. It is also why the person on the other end still believes the letter. You saw it. You said it.
+
+The suggestion only knows what you taught. What you sell. How you talk. What a good yes looks like. What you never promise. A florist is not a software shop. A person taking deposits is not a warranty desk. You write that down once. You are not training a stranger forever. You are giving the desk a memory of your week.
+
+---
+
+## Notes They Never See
+
+Beside the case is a place for you. What you did. What they booked. What you still owe. They never see it. Close the case when it is done. The note stays with the person.
+
+That is the difference between a search bar and a shop that remembers.
+
+---
+
+## More Than One Address
+
+If you have sales on one mailbox and bookings on another, or a second shop, they can share one desk. You still see which pile a letter came from. You do not keep three tabs open and hope.
+
+You do not need three products. You need one place that can hold more than one door.
+
+---
+
+## What This Is Not
+
+It is not a chatbot on your homepage.
+
+It is not a takeover of your email host.
+
+It is not a download, a plugin, or an extension. It is a site. Phone, laptop, tablet.
+
+It is not magic. It is the mail that matters, in one place, with a memory, and a suggestion you are free to ignore.
+
+---
+
+## How to Start
+
+Fourteen days. No credit card. You land in the chair and you point the address you already have.
+
+The mail is already coming. Sales. Appointments. Support. The week.
+
+Give it one place.
+
+**[Start at my-support-agent.com/start](https://www.my-support-agent.com/start)**
+
+---
+
 ## Plans
 
-### **Specialist**
+### Specialist
 
-— Your support inbox, on autopilot · $19.99/mo · $179.91/yr *Save 25% annually*
+$19.99/mo · $179.91/yr *Save 25% annually*
 
 **14-day free trial · No credit card required**
 
-For small businesses managing support across multiple products or addresses.
+For one shop, or a few doors, that need the mail in one place.
 
 What’s included:
 
 * Up to 3 forwarded inboxes
 * 200 cases per month
-* AI suggested fixes on every case
-* Business profile — teach the AI your industry and tone
-* Work notes per case
-* Click-to-reply
-* Runs in any browser — no download required
+* A suggestion on every case
+* Teach the desk what you sell, how you talk, what a good yes looks like
+* Notes they never see
+* You send it from your own mail
+* A site — phone, laptop, tablet. No download
 * No ads
 
 ---
 
-### **Command**
+### Command
 
-— Full control of your support operation · $39.99/mo · $359.91/yr *Save 25% annually*
+$39.99/mo · $359.91/yr *Save 25% annually*
 
-For growing teams handling serious support volume across multiple products, brands, or locations.
+For more than one shop, brand, or mailbox — still one desk.
 
 Everything in Specialist, plus:
 
 * Up to 10 forwarded inboxes
 * 500 cases per month
-* Custom AI instructions per inbox
+* Instructions per inbox
 * Priority support
 
 ---
 
-### **Enterprise**
+### Enterprise
 
-— Built around your operation *Contact us*
+*Contact us*
 
-Custom inbox volume, custom case limits, dedicated support, and an SLA agreement. Built for operators who can’t afford a missed case.
+Custom inbox volume, custom case limits, dedicated support, and an SLA. Built for operators who cannot afford a missed letter.
 
-→ Email support@my-support-agent.com
+→ Email support@my-support-agent.com
 
 ---
 
-### ***Just So You Know***
-
-My Support Agent is entirely cloud-based. No download, no plugin, no browser extension. Open it on your phone, your laptop, or your tablet — it works everywhere. Add it to your home screen for instant access.
-
-## **Get your support agent – [HERE](https://www.my-support-agent.com/)**
-
-Questions? Email support@skylandapps.com Tell us which utility you have questions about!
-
-© 2026 Skyland Reach LLC
-
-© 2026 Skyland Reach LLC
+Questions? Email **support@skylandapps.com** and tell us you are asking about My Support Agent.

@@ -3,7 +3,7 @@ import { MarkdownPage } from "@/components/markdown-page";
 import content from "@/content/my-support-agent-2.md?raw";
 
 const description =
-  "With a dedicated inbox for support, sales, or questions, your agent meets every message with wording you can paste into your own reply, plus how to resolve it. You train it to know your business.";
+  "The mail that makes the week run — sales, bookings, support. Forward the address you already have. Every message becomes a case you can see, answer, and close.";
 
 export const Route = createFileRoute("/my-support-agent-2")({
   head: () => ({
@@ -25,7 +25,7 @@ function Page() {
         <div className="relative w-full overflow-hidden rounded-lg border border-border/60">
           <img
             src="/my-support-agent-hero.png"
-            alt="My Support Agent — your AI-powered support inbox command center"
+            alt="My Support Agent — the mail that makes the week run"
             className="w-full h-auto block"
           />
         </div>

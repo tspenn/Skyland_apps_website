@@ -69,7 +69,7 @@ export const suiteProducts: {
     name: "My Support Agent",
     path: "/my-support-agent-2",
     description:
-      "Suggested reply wording and how to resolve each message, trained on your business.",
+      "The mail that makes the week run — sales, bookings, support — as cases you can see, answer, and close. They write to you. You answer as you.",
     sameAs: "https://www.my-support-agent.com/",
   },
   {
